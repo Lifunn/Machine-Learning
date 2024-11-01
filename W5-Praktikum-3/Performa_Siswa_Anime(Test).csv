@@ -1,0 +1,1043 @@
+Nama,Jam_Belajar,Kehadiran,Keterlibatan_Orangtua,Akses_ke_Sumber_Daya,Kegiatan_Ekstrakurikuler,Jam_Tidur,Nilai_Sebelumnya,Tingkat_Motivasi,Akses_Internet,Sesi_Bimbingan,Pendapatan_Keluarga,Kualitas_Guru,Jenis_Sekolah,Pengaruh_Teman,Aktivitas_Fisik,Kesulitan_Belajar,Tingkat_Pendidikan_Orangtua,Jarak_dari_Rumah
+Ouzen (オーゼン),20.0,77,Medium,High,Yes,7,53,Medium,Yes,1,Low,Medium,Public,Positive,4,No,High School,Near
+"Yuigahama, Yui (由比ヶ浜 結衣)",28.0,95,Medium,Medium,Yes,8,80,Medium,Yes,0,,Medium,Private,Negative,2,No,High School,Moderate
+Hiei (飛影),21.0,85,Medium,High,Yes,5,53,Medium,Yes,2,Low,Medium,Private,Neutral,3,No,College,Near
+Dabi (荼毘),16.0,87,High,Medium,Yes,7,79,Medium,Yes,1,Low,Medium,Public,Neutral,4,No,Postgraduate,Moderate
+"Nikiforov, Victor (ヴィクトル・ニキフォロフ)",24.0,80,High,Medium,Yes,7,72,Medium,No,2,Medium,Medium,Public,Neutral,3,No,High School,Near
+"Enoshima, Junko (江ノ島 盾子)",8.0,83,Low,High,No,7,76,Medium,Yes,2,Medium,High,Public,Positive,2,No,Postgraduate,Near
+Zeke (ジーク),10.0,79,High,Medium,,9,91,Medium,,3,Low,Medium,Private,Neutral,4,No,College,Moderate
+"Cha, Hae-In (차해인)",22.0,67,Low,High,No,5,79,High,Yes,1,Medium,Medium,Public,Positive,4,No,High School,Near
+"Toga, Himiko (渡我 被身子)",9.0,81,High,High,Yes,5,60,High,Yes,2,Medium,High,Public,Positive,4,No,College,Near
+"Kishibe, Rohan (岸辺 露伴)",33.0,81,Medium,Low,Yes,10,96,Medium,Yes,0,,Medium,Public,,3,No,High School,Moderate
+"Miyamura, Izumi (宮村 伊澄)",20.0,82,High,High,Yes,7,95,High,Yes,0,Low,Medium,Private,,5,No,College,Near
+"Hijikata, Toushirou (土方 十四郎)",24.0,80,Medium,Medium,No,6,93,Medium,Yes,3,Medium,Medium,Public,Positive,3,Yes,High School,Near
+"Forger, Anya (アーニャ・フォージャー)",24.0,89,Medium,High,Yes,6,75,Low,No,0,Low,High,Public,Positive,3,No,College,Near
+"River, Nate (ネイト・リバー)",24.0,80,Medium,High,No,9,52,Low,Yes,0,Medium,High,Public,,3,No,High School,Near
+"Uchiha, Madara (うちはマダラ)",29.0,85,Medium,High,Yes,7,65,Medium,Yes,1,Medium,Medium,Private,Positive,2,No,High School,Near
+"Kusakabe, Shinra (森羅 日下部)",17.0,77,Medium,Low,Yes,9,96,Low,Yes,2,Low,High,Public,Positive,4,No,High School,Near
+"Spiegel, Spike (スパイク・スピーゲル)",23.0,90,Medium,High,Yes,10,92,High,Yes,3,Medium,High,Public,Positive,4,No,Postgraduate,Near
+Ikaros (イカロス),15.0,91,Medium,High,No,9,55,Medium,Yes,0,Low,Low,Private,Neutral,4,No,High School,Near
+"Wong Hau Pepelu Tivrusky IV, Edward (エドワード・ウォン・ハウ・ペペル・チブルスキー4世)",,80,Medium,High,,7,90,High,Yes,0,Medium,High,Public,Positive,2,Yes,High School,Near
+"Yuuki, Asuna (結城 明日奈 / アスナ)",29.0,88,High,Medium,No,9,69,High,Yes,0,High,Medium,Public,,1,No,Postgraduate,Moderate
+"Ootori, Kyouya (鳳 鏡夜)",23.0,76,Medium,High,No,8,53,Medium,Yes,3,Medium,High,Public,Neutral,2,No,College,Near
+"Watanabe, You (渡辺 曜)",8.0,69,High,Low,Yes,8,65,Low,Yes,1,,Medium,Public,Neutral,3,No,Postgraduate,Moderate
+"Takahashi, Ryousuke (高橋 涼介)",,60,Low,Low,Yes,7,81,High,Yes,1,Medium,High,Public,Positive,5,No,College,Near
+"Hiiragi, Shinoa (柊 シノア)",31.0,86,Medium,Medium,Yes,8,68,Low,Yes,1,Medium,High,Public,,2,Yes,College,Near
+"Uenoyama, Ritsuka (上ノ山 立夏)",26.0,76,Low,Medium,Yes,6,64,Medium,Yes,0,Low,Medium,Private,Neutral,3,Yes,College,Near
+"Matsuno, Chifuyu (松野 千冬)",25.0,85,Medium,Medium,Yes,8,59,Medium,Yes,1,,Medium,Public,Neutral,2,No,College,Moderate
+"Kurogane, Ikki (黒鉄 一輝)",,67,Medium,Medium,No,6,54,Low,Yes,3,Medium,Medium,Public,Positive,4,No,High School,Moderate
+Raphtalia (ラフタリア),9.0,98,Medium,Low,Yes,9,97,Medium,Yes,3,Medium,Low,Public,Positive,4,No,College,Near
+"Ootani, Atsushi (大谷敦士)",24.0,61,Low,High,No,7,74,Medium,Yes,0,Medium,Medium,Public,Positive,3,No,High School,Near
+Lancer (ランサー),10.0,73,Medium,Medium,Yes,5,85,Low,Yes,3,,Low,Public,Positive,3,No,College,Near
+"Kyan, Reki (喜屋武 暦)",20.0,77,High,Medium,Yes,8,89,Low,Yes,0,Medium,Medium,Public,Positive,3,No,High School,Near
+Lum (ラム),20.0,68,Low,Medium,Yes,8,71,Low,No,2,Medium,Medium,Public,Positive,4,No,College,Moderate
+"Archiviste, Noé (ノエ・アルシヴェスト)",24.0,74,Low,High,Yes,9,66,Low,,1,Medium,Low,Private,,4,Yes,High School,Near
+"Tatsumi, Koutarou (巽 幸太郎)",10.0,74,Low,Medium,Yes,6,93,High,Yes,2,Medium,Medium,Private,Negative,2,No,High School,Moderate
+"Akiyama, Mio (秋山 澪)",26.0,84,Medium,High,Yes,9,77,High,Yes,0,Medium,Medium,Public,Positive,1,No,College,Near
+"Shiina, Mahiru (椎名 真昼)",18.0,70,High,Medium,Yes,5,92,High,Yes,0,Low,Medium,Public,Neutral,3,No,High School,Near
+Maomao (猫猫),29.0,85,Medium,High,No,7,63,High,Yes,1,High,Medium,Public,Neutral,3,No,College,Moderate
+"Kiryuuin, Satsuki (鬼龍院 皐月)",24.0,85,Medium,Medium,No,7,92,Medium,Yes,1,Medium,Low,Public,Positive,3,No,High School,Near
+"Ryuu, Jusetsu (柳 寿雪)",12.0,70,Low,Medium,,7,74,Medium,,3,Medium,High,Private,Positive,3,No,Postgraduate,Moderate
+"Kochou, Shinobu (胡蝶 しのぶ)",21.0,90,High,High,Yes,7,60,Medium,Yes,0,,Medium,Private,Neutral,3,No,High School,Moderate
+"Kotoishi, Naru (琴石 なる)",16.0,89,Medium,Medium,Yes,6,66,Medium,,3,Low,Low,Public,Positive,2,No,High School,Near
+"Speedwagon, Robert E. O. (ロバート・E・O・スピードワゴン)",18.0,76,Medium,Low,Yes,8,98,Low,Yes,4,,High,Private,Neutral,3,No,Postgraduate,Moderate
+"Saotome, Ranma (早乙女 乱馬)",18.0,61,Low,Medium,Yes,10,76,Low,Yes,1,Medium,High,Public,Neutral,3,No,College,Moderate
+"Katou, Megumi (加藤 恵)",32.0,84,Low,Low,,8,90,Medium,,1,,Medium,Private,Neutral,3,No,Postgraduate,Moderate
+"Sento, Isuzu (千斗 いすず)",24.0,63,High,Medium,Yes,5,65,Low,Yes,2,Medium,High,Public,Negative,1,No,Postgraduate,Near
+"Strife, Cloud (クラウド・ストライフ)",10.0,82,Medium,High,Yes,7,63,High,No,4,Medium,Medium,Public,Negative,5,No,College,Moderate
+"Nendou, Riki (燃堂 力)",28.0,61,Low,Medium,,10,54,Medium,Yes,2,Medium,High,Private,,3,No,High School,Moderate
+"Yaguchi, Yatora (矢口 八虎)",20.0,80,Medium,Low,No,8,89,Medium,No,2,,High,Public,Neutral,3,No,High School,Near
+"Ogino, Chihiro (荻野 千尋)",15.0,71,High,Medium,Yes,6,59,Low,Yes,1,Low,Medium,Public,Neutral,3,No,High School,Near
+"Konno, Yuuki (紺野 木綿季)",,70,Medium,High,No,9,71,Medium,Yes,2,High,Medium,Private,Positive,3,No,Postgraduate,Moderate
+"Nagumo, Hajime (南雲 ハジメ)",20.0,69,High,Medium,Yes,7,54,Medium,No,1,Medium,Medium,Public,Positive,3,No,Postgraduate,Near
+"Satou, Mafuyu (佐藤 真冬)",18.0,93,Low,High,No,5,81,Medium,Yes,1,Low,Medium,Public,Negative,3,No,College,Moderate
+"Sung, Jin-Woo (성 진우)",23.0,78,Medium,Medium,Yes,6,98,Medium,,3,Medium,Medium,Private,Positive,4,No,Postgraduate,Moderate
+"Kirishima, Eijirou (切島 鋭児郎)",24.0,85,Medium,Medium,,8,79,High,Yes,4,Low,Low,Private,Negative,3,No,College,Far
+"Hirasawa, Yui (平沢 唯)",,93,Medium,High,Yes,8,64,Medium,Yes,1,High,High,Public,Positive,5,No,Postgraduate,Moderate
+"Michaelis, Sebastian (セバスチャン・ミカエリス)",20.0,95,Medium,High,Yes,9,100,Low,Yes,3,Medium,Medium,Public,Positive,3,No,High School,Far
+"Amane, Misa (弥 海砂)",24.0,83,Medium,Medium,Yes,8,96,Low,Yes,0,,Medium,Public,Positive,2,No,High School,Near
+Yato (夜ト),31.0,87,High,Medium,Yes,8,67,Medium,Yes,1,High,Medium,Private,,2,No,High School,Near
+"Mashiro, Moritaka (真城 最高)",18.0,63,Medium,Medium,Yes,9,94,Medium,No,1,Low,Medium,Public,Neutral,2,No,High School,Far
+"Oga, Tatsumi (男鹿 辰巳)",20.0,65,Medium,Medium,Yes,6,84,High,Yes,1,Low,Medium,Public,Positive,4,No,College,Moderate
+"Plisetsky, Yuri (ユーリ・プリセツキー)",25.0,75,High,Medium,Yes,7,76,Low,Yes,1,,Medium,Public,Positive,3,No,High School,Near
+"Yuuki, Makoto (有里 湊 / 結城 理)",14.0,79,Medium,Low,Yes,6,71,High,Yes,1,Low,High,Private,Negative,4,No,High School,Moderate
+"Dreyar, Laxus (ラクサス・ドレアー)",15.0,72,Medium,Medium,,6,54,High,Yes,0,,Medium,Private,Positive,4,No,College,Near
+"Souma, Momiji (草摩 紅葉)",,68,Medium,Medium,No,10,68,Low,Yes,1,,Medium,Public,Positive,3,No,Postgraduate,Moderate
+"Yatogami, Tooka (夜刀神 十香)",28.0,67,High,Medium,,7,64,Medium,Yes,2,Medium,Medium,Public,Neutral,2,Yes,Postgraduate,Near
+"Lagusa, Angelo (アヴィリオ・ブルーノ / アンジェロ・ラクーザ)",16.0,81,High,Medium,No,10,86,Low,Yes,1,Medium,Low,Private,Positive,3,No,High School,Moderate
+Diablo (ディアブロ),21.0,69,Low,High,,8,71,Medium,Yes,2,,Low,Public,,2,No,High School,Near
+Alucard (アーカード),20.0,99,High,Medium,Yes,7,94,Medium,Yes,1,High,Medium,Public,,2,No,College,Far
+"Miniwa, Tsumiki (御庭 つみき)",12.0,74,Low,Medium,Yes,5,85,Medium,Yes,0,Low,Medium,Private,Neutral,3,No,College,Moderate
+"Shirayuki, Mizore (白雪 みぞれ)",14.0,69,Medium,High,Yes,5,92,Medium,Yes,3,,High,Public,Positive,4,No,High School,Moderate
+"Stein, Franken (フランケン シュタイン)",24.0,80,Medium,Medium,Yes,8,71,Medium,Yes,2,Low,Medium,Public,Positive,1,Yes,High School,Near
+"Arima, Kousei (有馬 公生)",26.0,79,Medium,Medium,,5,60,Medium,Yes,1,Medium,Medium,Public,Positive,3,No,College,Near
+"Higashikata, Jousuke (東方 定助)",12.0,78,Medium,High,Yes,8,51,Low,Yes,1,Low,High,Public,,4,No,College,Near
+"Ichinose, Kotomi (一ノ瀬 ことみ)",15.0,75,Medium,Medium,Yes,4,88,Low,Yes,3,Low,High,Public,,5,Yes,Postgraduate,Moderate
+Ymir (ユミル),20.0,61,Low,High,,7,59,Medium,Yes,4,Low,Medium,Public,Negative,3,No,Postgraduate,Near
+Frieren (フリーレン),22.0,95,High,High,No,8,80,Low,Yes,2,Low,Medium,Public,Positive,4,No,High School,Moderate
+"Nota Seniorious, Chtholly (クトリ・ノタ・セニオリス)",11.0,82,Medium,High,No,7,94,Low,,3,Low,High,Private,Negative,2,No,High School,Near
+"Tsutsukakushi, Tsukiko (筒隠 月子)",20.0,64,Medium,Medium,No,6,60,Medium,,4,Medium,Medium,Private,Neutral,3,No,College,Moderate
+"Sukehiro, Yami (ヤミ・スケヒロ)",23.0,86,Medium,High,Yes,7,78,High,Yes,2,Medium,Medium,Public,Negative,3,No,High School,Near
+Kumoko (私),24.0,74,High,Low,Yes,6,55,Low,Yes,1,Low,Medium,Private,Neutral,3,No,College,Moderate
+"Degurechaff, Tanya (ターニャ・デグレチャフ)",27.0,89,Medium,Medium,Yes,8,86,Medium,,0,,Medium,Public,Positive,5,No,High School,Near
+"Oshino, Meme (忍野 メメ)",26.0,67,High,Medium,No,6,87,Low,Yes,1,Low,Medium,Public,Neutral,5,No,High School,Near
+The Skull Knight (髑髏の騎士),7.0,90,Medium,Medium,No,7,70,Low,Yes,3,Medium,Medium,Private,Positive,3,No,College,Moderate
+"Hyakuya, Yuuichirou (百夜 優一郎)",,74,Medium,High,Yes,6,59,High,No,1,Medium,Medium,Public,Positive,2,No,Postgraduate,Near
+"Nanba, Mutta (南波六太)",13.0,69,Medium,High,No,7,98,Medium,,0,Low,Medium,Private,,3,No,High School,Near
+"Harvent, Miria (ミリア・ハーヴェント)",33.0,75,Medium,High,Yes,7,66,Low,,0,Low,Medium,Public,Negative,2,Yes,College,Near
+"Argyle, Felix (フェリックス・アーガイル / フェリス)",19.0,64,High,Medium,,5,78,Medium,Yes,1,High,Low,Public,Negative,4,No,College,Near
+"Sakuragi, Hanamichi (桜木 花道)",22.0,77,High,High,No,5,66,Low,Yes,2,Low,High,Public,Neutral,3,No,College,Near
+"Hoshino, Ai (星野 アイ)",21.0,90,Medium,High,Yes,6,78,Medium,No,3,Low,Medium,Public,Negative,4,No,Postgraduate,Far
+"Mabuchi, Kou (馬渕 洸)",,63,High,High,,6,90,Medium,Yes,3,Low,High,Public,Positive,5,No,High School,Moderate
+"Hazuki, Nagisa (葉月 渚)",21.0,74,Low,Medium,No,8,90,Medium,No,1,Medium,Medium,Public,Neutral,3,No,High School,Near
+"Cranel, Bell (ベル・クラネル)",24.0,75,Medium,Low,No,7,91,Low,Yes,4,Medium,High,Public,Negative,4,No,College,Near
+"Mitsuba, Sousuke (三葉 惣助)",20.0,63,Medium,Medium,Yes,5,81,Medium,Yes,1,Medium,Medium,Public,Positive,3,No,High School,Moderate
+"Yashiro, Nene (八尋 寧々)",9.0,70,Medium,Medium,Yes,5,86,Medium,Yes,1,Medium,Medium,Private,,2,No,Postgraduate,Moderate
+"Okumura, Rin (奥村 燐)",27.0,94,High,Medium,Yes,8,50,Medium,No,1,High,Medium,Public,Negative,3,No,Postgraduate,Far
+"Furude, Rika (古手 梨花)",21.0,94,Medium,Low,No,7,100,High,Yes,0,High,Low,Public,Neutral,1,Yes,College,Moderate
+Jeanne (ジャンヌ),11.0,75,Low,Medium,,9,60,High,Yes,1,Low,Medium,Public,,4,No,High School,Far
+"Rengoku, Kyoujurou (煉獄 杏寿郎)",21.0,87,High,High,Yes,8,67,Low,No,1,Medium,High,Public,Positive,3,No,Postgraduate,Moderate
+"Pheles, Mephisto (メフィスト・フェレス)",31.0,66,High,Low,Yes,6,65,Low,No,0,,Medium,Private,Positive,2,No,College,Moderate
+"Evergarden, Violet (ヴァイオレット・エヴァーガーデン)",22.0,94,High,High,,8,71,Medium,Yes,2,High,High,Public,Positive,2,No,High School,Near
+Yami Yuugi (闇の遊戯),20.0,75,Medium,Medium,Yes,4,72,Medium,Yes,2,,Medium,Private,Positive,2,No,High School,Near
+Shiro (シロ),26.0,78,High,Low,,7,92,Low,Yes,2,High,High,Private,,2,Yes,High School,Near
+Death the Kid (デス・ザ・キッド),29.0,71,High,Medium,No,6,85,Medium,,3,Medium,Medium,Public,,4,No,College,Near
+"Aioi, Yuuko (相生 祐子)",14.0,81,Medium,High,Yes,6,69,Medium,Yes,0,Low,Medium,Public,Positive,2,No,College,Near
+"Gasai, Yuno (我妻 由乃)",25.0,90,Medium,High,Yes,7,79,Medium,,1,Low,Medium,Public,Positive,2,No,Postgraduate,Near
+"Victoria, Seras (セラス・ヴィクトリア)",20.0,69,High,Medium,No,7,91,Low,Yes,0,High,High,Private,Positive,2,No,Postgraduate,Near
+"Ishida, Uryuu (石田 雨竜)",15.0,69,Medium,Medium,Yes,7,62,Medium,Yes,1,Low,Medium,Private,Neutral,1,No,College,Moderate
+"Katsura, Kotarou (桂 小太郎)",,93,High,Medium,,7,58,Low,No,0,Medium,High,Public,Positive,1,No,College,Near
+"Kaburagi, Kotetsu T. (鏑木・Ｔ・虎徹/ ワイルドタイガー)",2.0,84,High,Medium,Yes,8,81,Medium,Yes,3,Low,Medium,Public,Neutral,2,No,College,Near
+"Milizé, Vladilena (ヴラディレーナ・ミリーゼ)",28.0,78,Medium,High,Yes,4,88,Low,Yes,2,,Medium,Public,,5,No,High School,Near
+All Might (オール・マイト),13.0,98,Low,High,,8,61,Medium,Yes,4,Medium,High,Private,Positive,3,No,Postgraduate,Far
+"Ayanami, Rei (綾波 レイ)",25.0,98,Medium,Medium,,7,93,High,Yes,0,Low,Medium,Public,,3,No,College,Moderate
+"Giovanna, Giorno (ジョルノ・ジョバァーナ)",17.0,83,High,Medium,Yes,6,95,Medium,Yes,2,Medium,Medium,Public,Positive,3,Yes,High School,Near
+"Midorima, Shintarou (緑間 真太郎)",22.0,88,Low,Low,No,5,78,Low,No,0,Low,Low,Public,Negative,5,Yes,High School,Near
+"Saluja, Alibaba (アリババ・サルージャ)",24.0,62,High,Medium,No,6,76,Medium,Yes,1,Medium,Medium,Public,Positive,3,No,High School,Near
+"Katsuragi, Misato (葛城 ミサト)",30.0,84,Low,Medium,Yes,9,93,Medium,Yes,2,Medium,Medium,Public,Positive,3,Yes,Postgraduate,Near
+"Sakagami, Tomoyo (坂上 智代)",28.0,67,Low,High,Yes,6,81,Medium,Yes,4,Low,Medium,Private,Positive,3,No,High School,Near
+"Marvell, Wendy (ウェンディ・マーベル)",14.0,61,Low,Low,,6,61,Medium,Yes,2,Medium,High,Public,Neutral,3,No,High School,Moderate
+"Sanka, Rea (散華 礼弥)",11.0,70,Medium,Medium,No,6,67,Low,Yes,0,Medium,High,Private,Positive,2,Yes,High School,Near
+Denji (デンジ),28.0,85,High,High,No,5,54,Low,,3,,Medium,Private,Neutral,3,No,College,Near
+"Armstrong, Alex Louis (アレックス・ルイ・アームストロング)",25.0,68,Medium,Medium,Yes,10,64,Medium,Yes,2,Low,High,Public,Positive,3,No,College,Near
+"Migurdia, Roxy (ロキシー・ミグルディア)",21.0,94,High,Medium,,7,80,Low,Yes,1,Medium,Low,Public,,3,No,College,Moderate
+"Nishikigi, Chisato (錦木 千束)",16.0,87,High,High,Yes,6,96,Low,Yes,1,,Medium,Public,Negative,4,No,High School,Near
+"Kuwabara, Kazuma (桑原 和真)",19.0,82,Medium,Medium,No,8,68,High,Yes,1,Medium,High,Private,Negative,2,No,High School,Far
+Iris (アイリス),20.0,68,High,Low,,6,98,Medium,Yes,1,,Medium,Private,Neutral,3,No,College,Moderate
+"Azusagawa, Kaede (梓川 花楓)",13.0,70,Medium,Medium,,7,94,Medium,Yes,2,Medium,Low,Public,Positive,4,No,High School,Near
+Caiman (カイマン),26.0,73,Low,Medium,Yes,7,68,Medium,No,4,Low,Medium,Public,Negative,3,No,High School,Far
+"Souryuu, Asuka Langley (惣流・アスカ・ラングレー)",33.0,77,High,High,Yes,8,85,High,,2,High,Low,Public,,3,No,College,Far
+"Tsukiyama, Shuu (月山 習)",19.0,75,Medium,High,Yes,8,64,High,No,0,Medium,Medium,Public,,3,No,College,Moderate
+"Emiya, Kiritsugu (衛宮 切嗣)",,98,Low,High,,7,89,Medium,Yes,1,Low,Low,Public,Positive,3,Yes,College,Near
+"Morita, Shinobu (森田 忍)",,61,Low,Medium,No,8,60,Low,Yes,2,Medium,Medium,Private,Neutral,4,No,Postgraduate,Near
+"Braun, Gabi (ガビ・ブラウン)",20.0,87,Medium,High,No,6,94,High,Yes,1,High,High,Public,Positive,3,No,College,Moderate
+"Mercury, Rory (ロゥリィ・マーキュリー)",24.0,84,Medium,High,,7,63,Low,Yes,1,Low,Medium,Public,Positive,4,No,High School,Moderate
+"Okita, Sougo (沖田 総悟)",8.0,98,High,Medium,Yes,10,97,Low,,0,Medium,Medium,Private,Positive,2,No,College,Moderate
+"Kotegawa, Chisa (古手川 千紗)",29.0,78,Medium,Medium,No,6,80,Medium,No,1,High,Medium,Public,Neutral,2,No,High School,Far
+"Echizen, Ryouma (越前  リョーマ)",28.0,67,Low,Medium,,9,78,Low,Yes,1,Medium,Medium,Public,Negative,4,No,High School,Near
+Tatsumaki (戦慄のタツマキ),21.0,85,High,Medium,Yes,7,64,Low,No,0,High,Medium,Public,Positive,3,No,College,Near
+"Ishigami, Senkuu (石神 千空)",17.0,98,High,Medium,No,5,85,High,,0,High,Medium,Public,Positive,2,No,College,Moderate
+Archer (アーチャー),17.0,90,Medium,High,,7,91,Medium,Yes,2,,Medium,Public,Positive,3,No,High School,Near
+"Samejima, Mamimi (サメジマ・マミ美)",7.0,81,High,High,,9,97,Low,Yes,2,Low,High,Public,Neutral,4,No,High School,Near
+"Kanzaki, Urumi (神崎 麗美)",12.0,74,High,Low,Yes,7,63,Medium,Yes,0,Medium,High,Private,Positive,2,No,College,Near
+"Futaba, Rio (双葉 理央)",26.0,71,Medium,High,,8,59,Medium,,3,Low,High,Public,Positive,4,No,College,Near
+"Midoriya, Izuku (緑谷 出久)",19.0,91,High,High,No,4,82,Medium,Yes,1,High,High,Public,Positive,3,No,Postgraduate,Moderate
+"Haninozuka, Mitsukuni (埴之塚 光邦)",16.0,71,Medium,Medium,Yes,6,72,Medium,Yes,0,High,High,Private,Positive,2,No,Postgraduate,Near
+Balalaika (バラライカ),20.0,83,Medium,High,No,8,77,Low,No,1,Low,Medium,Public,Positive,3,No,High School,Far
+"Shihouin, Yoruichi (四楓院 夜一)",19.0,86,Medium,High,No,7,68,Medium,Yes,1,High,Medium,Private,Neutral,4,No,Postgraduate,Near
+"Lamperouge, Lelouch (ルルーシュ・ランペルージ)",28.0,99,High,Medium,No,6,98,High,Yes,1,,Low,Public,Positive,2,No,Postgraduate,Near
+"Nakiri, Erina (薙切 えりな)",18.0,84,Low,High,No,9,97,Medium,Yes,1,,Medium,Private,,3,No,High School,Near
+Phosphophyllite (フォスフォフィライト),18.0,80,High,High,,7,83,Medium,Yes,1,,Medium,Public,Positive,3,No,Postgraduate,Near
+Morgiana (モルジアナ),,71,Medium,High,No,8,94,Low,Yes,0,Low,Medium,Public,Positive,3,No,College,Near
+"Izumi, Shinichi (泉 新一)",23.0,76,Medium,High,,5,94,Medium,,0,Low,Medium,Public,Positive,1,No,Postgraduate,Moderate
+Kino (キノ),21.0,79,High,Medium,No,5,63,Medium,,3,Medium,Medium,Public,Neutral,2,No,Postgraduate,Moderate
+"Deviluke, Lala Satalin (ララ・サタリン・デビルーク)",21.0,67,Medium,High,Yes,9,84,Low,No,5,,Low,Public,Neutral,3,No,College,Near
+"Hino, Rei (火野 レイ)",12.0,83,Medium,Medium,No,6,93,Low,Yes,1,Low,Low,Private,Positive,1,No,High School,Near
+"Nijimura, Okuyasu (虹村 億泰)",14.0,78,Medium,High,No,6,92,Medium,Yes,0,Medium,Medium,Public,Positive,3,Yes,College,Near
+Lucy (ルーシー),17.0,88,Medium,High,Yes,6,74,Medium,,3,,Medium,Public,Negative,4,Yes,College,Near
+"Hanagaki, Takemichi (花垣 武道)",18.0,63,High,Medium,No,7,90,High,Yes,0,Medium,High,Private,Neutral,1,No,Postgraduate,Moderate
+"Nara, Shikamaru (奈良 シカマル)",27.0,93,High,Medium,No,6,92,Low,Yes,0,Low,Medium,Public,Positive,4,No,High School,Near
+Aladdin (アラジン),17.0,84,Medium,High,Yes,8,57,Medium,Yes,1,,Low,Private,Negative,4,Yes,High School,Near
+"Aizawa, Shouta (相澤 消太)",31.0,86,Medium,Medium,No,7,66,Medium,Yes,0,Low,Low,Public,Positive,3,No,High School,Near
+"Gotou, Hitori (後藤 ひとり)",25.0,95,Medium,High,No,8,86,Medium,Yes,3,,Low,Public,Negative,2,Yes,College,Near
+"Wallenstein, Ais (アイズ・ヴァレンシュタイン)",12.0,96,Low,High,,6,59,Medium,Yes,2,Medium,Medium,Public,Negative,4,No,Postgraduate,Far
+"Fujiwara, Bunta (藤原 文太)",23.0,65,Low,High,No,8,75,Medium,Yes,0,Medium,Low,Public,Positive,3,No,High School,Near
+"Anarchy, Stocking (ストッキング・アナーキー)",26.0,68,Medium,High,Yes,6,77,Low,No,2,Medium,High,Private,Neutral,4,No,High School,Moderate
+"Okazaki, Tomoya (岡崎 朋也)",21.0,98,High,Medium,No,7,50,Medium,,0,,High,Public,Positive,3,No,College,Near
+Himmel (ヒンメル),22.0,63,High,High,No,7,59,High,,0,Low,Low,Private,,3,No,High School,Far
+"Aragaki, Ayase (新垣 あやせ)",11.0,69,Medium,Medium,Yes,9,97,Low,No,1,Low,Low,Private,Positive,3,No,College,Near
+"Asui, Tsuyu (蛙吹 梅雨)",18.0,85,Medium,Medium,Yes,6,89,Medium,Yes,0,High,High,Private,Neutral,4,No,College,Near
+"Portgas D., Ace (ポートガス・D・エース)",17.0,92,High,Medium,Yes,7,99,Low,,2,Medium,Medium,Public,Neutral,2,Yes,Postgraduate,Near
+"Anderson, Alexander (アレクサンド・アンデルセン)",6.0,69,Medium,Medium,Yes,5,76,Low,Yes,2,High,High,Public,,1,No,College,Moderate
+"Tempest, Rimuru (リムル＝テンペスト)",22.0,99,Medium,High,Yes,9,79,Low,No,1,High,High,Public,Positive,2,No,High School,Near
+"Getou, Suguru (夏油 傑)",24.0,74,Medium,High,,7,91,Low,Yes,0,High,High,Private,Neutral,3,No,College,Moderate
+"Thierry, Laurent (ローラン・ティエリー)",23.0,61,Medium,Medium,,7,57,Low,Yes,3,,High,Public,Neutral,1,Yes,High School,Near
+"Kagamihara, Nadeshiko (各務原 なでしこ)",1.0,94,High,Medium,Yes,7,52,Medium,Yes,3,Medium,Medium,Private,Positive,2,No,High School,Far
+Ein (アイン),27.0,73,Medium,Low,Yes,6,72,Medium,Yes,1,Low,Medium,Public,Neutral,4,No,High School,Far
+"Albarn, Maka (マカ＝アルバーン)",14.0,92,High,Medium,,8,74,Medium,No,0,Low,Medium,Public,Negative,4,No,Postgraduate,Near
+"Fujibayashi, Kyou (藤林 杏)",25.0,79,Medium,Medium,,5,69,High,Yes,0,Low,High,Public,Positive,2,No,High School,Near
+"Zenin, Maki (禪院 真希)",,94,Medium,Low,,8,65,Medium,Yes,0,High,Medium,Private,Neutral,2,No,College,Near
+"Kamado, Nezuko (竈門 禰豆子)",25.0,76,High,High,Yes,6,93,Medium,Yes,0,Low,High,Private,Negative,4,No,College,Near
+"Momobami, Kirari (桃喰 綺羅莉)",13.0,62,Medium,Medium,No,6,78,Low,Yes,1,Medium,Medium,Public,Negative,3,No,High School,Near
+"Hitachiin, Kaoru (常陸院 馨)",22.0,73,Medium,Low,Yes,7,80,Low,Yes,1,Medium,Medium,Private,,2,No,Postgraduate,Near
+Tatsumi (タツミ),21.0,75,Medium,High,,7,66,Medium,Yes,2,Low,Medium,Public,Negative,2,No,High School,Moderate
+"Iwakura, Lain (岩倉 玲音)",22.0,95,Medium,High,No,7,84,Low,Yes,1,Medium,Medium,Public,Neutral,4,No,College,Moderate
+"Nakano, Nino (中野 二乃)",20.0,91,High,High,Yes,5,65,Medium,Yes,1,Medium,Medium,Public,Positive,4,No,High School,Near
+Togata (トガタ),14.0,67,High,Medium,No,7,90,Low,,2,Medium,High,Public,Neutral,2,No,College,Near
+Zero Two (ゼロツー),24.0,100,Low,High,Yes,9,79,Medium,Yes,3,,Medium,Private,,2,No,Postgraduate,Near
+"Azusagawa, Sakuta (梓川 咲太)",30.0,75,Medium,High,,6,81,Medium,No,2,,High,Public,Positive,4,No,College,Near
+"Suwa, Hiroto (須和 弘人)",15.0,76,Medium,Medium,Yes,7,64,Medium,Yes,0,Medium,Medium,Public,,1,No,Postgraduate,Moderate
+"Ogiwara, Sayu (荻原 沙優)",21.0,64,High,Medium,,7,67,Low,Yes,2,Medium,Medium,Public,Positive,2,No,High School,Far
+"Kuujou, Joutarou (空条 承太郎)",24.0,99,Medium,High,No,6,70,High,No,1,High,High,Public,Positive,3,No,High School,Near
+Jin (仁),17.0,96,Medium,High,Yes,8,50,Medium,No,2,Medium,Medium,Public,Negative,3,No,College,Moderate
+"Ackerman, Mikasa (ミカサ・アッカーマン)",28.0,94,High,Medium,No,6,66,High,Yes,3,Medium,High,Private,Positive,4,No,College,Far
+Rem (レム),36.0,81,Medium,High,Yes,7,90,Low,Yes,3,Medium,Low,Private,Neutral,4,No,Postgraduate,Moderate
+"Callenreese, Aslan Jade (アスラン・ジェイド・カーレンリース / アッシュ・リンクス)",9.0,99,High,High,Yes,6,77,Low,Yes,1,Low,Medium,Private,Positive,3,No,Postgraduate,Moderate
+"Paladiknight, Leorio (レオリオ=パラディナｲﾄ)",25.0,77,High,Medium,,6,81,High,,0,Medium,Medium,Private,Negative,3,No,College,Moderate
+"Sunohara, Youhei (春原 陽平)",17.0,68,High,Medium,,7,55,Medium,Yes,0,Low,High,Public,Neutral,2,No,Postgraduate,Far
+Hei (黒（ヘイ）),21.0,80,High,Medium,,6,92,High,Yes,4,Medium,High,Public,Positive,4,No,College,Near
+"Kanbaru, Suruga (神原 駿河)",21.0,72,High,Medium,Yes,8,95,Medium,Yes,1,Medium,Medium,Private,Positive,4,No,High School,Near
+"Fullbuster, Gray (グレイ・フルバスター)",21.0,97,Medium,Medium,Yes,6,79,Medium,,0,Medium,Medium,Public,Negative,2,No,College,Moderate
+"Doma, Umaru (土間 埋)",23.0,77,Medium,Medium,,4,66,Low,Yes,2,Medium,Medium,Private,,4,No,Postgraduate,Moderate
+"Okumura, Eiji (奥村 英二)",26.0,78,Medium,High,,9,54,Low,No,1,,Low,Public,,3,No,College,Near
+Vash the Stampede (ヴァッシュ・ザ・スタンピード),28.0,97,Low,Medium,Yes,6,86,High,Yes,0,Medium,Medium,Private,Negative,4,No,College,Moderate
+Monokuma (モノクマ),7.0,73,High,Medium,Yes,8,71,Medium,Yes,1,High,Medium,Public,Positive,1,No,College,Near
+"Onizuka, Eikichi (鬼塚 英吉)",25.0,99,Medium,Medium,No,6,79,High,Yes,3,Low,High,Public,Negative,3,No,Postgraduate,Near
+"Endo, Kenji (遠藤 健児)",17.0,74,Medium,Medium,No,8,89,High,Yes,1,Low,Medium,Public,Neutral,4,No,High School,Far
+"Hitachiin, Hikaru (常陸院 光)",17.0,84,Medium,Medium,No,5,98,Medium,Yes,0,Medium,High,Public,Neutral,2,No,High School,Near
+"Lawrence, Kraft (クラフト・ロレンス)",7.0,60,Medium,High,Yes,8,81,Low,Yes,2,Low,Medium,Public,Negative,4,No,College,Near
+"Vessalius, Oz (オズ＝ベザリウス)",20.0,68,High,Medium,,7,98,Medium,Yes,1,Medium,Medium,Public,Neutral,2,No,High School,Far
+"Makunouchi, Ippo (幕之内 一歩)",24.0,83,High,Medium,Yes,10,91,Medium,Yes,0,Medium,Low,Public,,4,No,High School,Near
+"Kazehaya, Shouta (風早 翔太)",15.0,68,High,High,Yes,7,88,High,Yes,1,High,Medium,Public,,4,No,High School,Moderate
+Akatsuki (アカツキ),24.0,64,High,Medium,Yes,7,90,Low,Yes,1,Low,Medium,Public,Neutral,4,No,College,Near
+"Nishimiya, Yuzuru (西宮 結絃)",25.0,69,Medium,Medium,No,9,71,High,Yes,0,Low,High,Private,Neutral,1,No,College,Moderate
+"Lan, Wangji (蓝 忘机)",16.0,62,High,Medium,Yes,8,91,Medium,Yes,2,Low,Medium,Public,Neutral,3,No,High School,Moderate
+"Nakano, Yotsuba (中野 四葉)",24.0,80,High,Low,No,7,62,Medium,Yes,3,High,High,Public,Neutral,5,No,High School,Moderate
+"Zoldyck, Killua (キルア・ゾルディック)",30.0,99,High,High,Yes,8,55,Medium,Yes,1,Medium,Medium,Public,,2,No,Postgraduate,Moderate
+"Hatori, Chise (羽鳥 智世)",22.0,77,Medium,Medium,No,5,80,Low,,3,,Medium,Public,Neutral,2,No,Postgraduate,Moderate
+"Morow, Hisoka (ヒソカ・モロウ)",26.0,88,Medium,High,,7,94,Low,Yes,3,Medium,High,Public,,3,Yes,Postgraduate,Near
+"Asakura, You (麻倉 葉)",17.0,74,Medium,High,Yes,6,67,High,Yes,2,Low,Medium,Private,Positive,4,No,High School,Near
+"Misaki, Mei (見崎 鳴)",19.0,86,Low,Medium,,9,90,Medium,Yes,4,Low,Medium,Private,,3,No,College,Near
+"Otonashi, Yuzuru (音無結弦)",10.0,95,High,Medium,No,8,67,Low,No,0,,High,Public,Negative,4,No,High School,Near
+"Mikk, Tyki (ティキ・ミック)",15.0,74,Medium,Medium,Yes,6,60,Low,No,0,Medium,Medium,Public,Neutral,2,No,College,Near
+"Blood, Staz Charlie (ブラッド・チャーリー・スタズ)",22.0,61,Low,Low,No,5,84,Low,Yes,0,Low,Medium,Public,Positive,2,No,High School,Near
+Ram (ラム),17.0,82,High,Medium,No,7,67,Medium,Yes,0,Medium,Medium,Public,,2,No,High School,Near
+"Zeppeli, Caesar Anthonio (シーザー・アントニオ・ツェペリ)",16.0,64,Medium,High,No,7,92,Low,Yes,0,Low,Medium,Private,Positive,1,No,High School,Near
+"Nightray, Gilbert (ギルバート＝ナイトレイ)",17.0,79,Low,Medium,Yes,8,86,Medium,Yes,1,Medium,Medium,Public,Positive,2,No,High School,Near
+"Le Blanc de La Vallière, Louise Françoise (ルイズ・フランソワーズ・ル・ブラン・ド・ラ・ヴァリエール)",22.0,93,Low,Medium,No,6,92,Medium,Yes,0,Low,Medium,Private,,3,No,High School,Moderate
+"Aizen, Sousuke (藍染 惣右介)",21.0,89,High,Medium,Yes,9,57,High,Yes,2,Low,Medium,Public,Neutral,4,No,High School,Near
+"Kawai, Rika (川井 リカ)",8.0,62,Medium,High,,7,78,Low,Yes,2,High,Medium,Public,Negative,2,No,High School,Near
+Bondrewd (ボンドルド),26.0,70,Low,High,Yes,7,92,Low,Yes,1,High,Medium,Private,Positive,3,No,College,Near
+"Komatsu, Nana (小松 奈々)",30.0,76,High,Low,Yes,9,53,Medium,,1,,Low,Private,Positive,3,No,Postgraduate,Moderate
+"Kamado, Tanjirou (竈門 炭治郎)",19.0,94,High,Medium,Yes,7,98,Medium,Yes,2,Medium,High,Public,Positive,4,No,High School,Far
+"Itou, Kaiji (伊藤開司)",15.0,89,High,High,Yes,7,68,Low,Yes,1,Medium,Medium,Public,Negative,4,No,High School,Near
+"Kawashima, Ami (川嶋 亜美)",18.0,67,High,High,No,8,64,Medium,Yes,3,Low,Medium,Public,Positive,2,No,College,Near
+Sylphiette (シルフィエット),17.0,94,Low,Medium,Yes,5,57,High,,1,,Low,Public,Neutral,2,No,College,Moderate
+"Cavendish, Diana (ダイアナ・キャベンディッシュ)",12.0,69,Medium,Medium,No,8,70,Medium,No,1,Medium,High,Private,Positive,3,No,High School,Far
+"Matsuzaka, Satou (松阪 さとう)",14.0,65,Low,Medium,,8,95,High,,1,Low,Medium,Private,Positive,2,No,High School,Near
+Jinbe (ジンベエ),21.0,93,Medium,High,No,8,56,Medium,,0,Low,Low,Private,,4,No,College,Moderate
+"Ijichi, Nijika (伊地知 虹夏)",21.0,76,Medium,High,Yes,8,71,Low,Yes,1,Low,Medium,Public,Neutral,3,No,Postgraduate,Near
+Yin (銀),28.0,64,High,Medium,Yes,8,69,Medium,Yes,2,Low,Medium,Private,Neutral,3,No,College,Near
+"Kotobuki, Tsumugi (琴吹 紬)",27.0,90,Medium,Low,No,10,64,Medium,,3,Medium,Medium,Public,Negative,3,No,High School,Near
+"Souma, Kyou (草摩 夾)",,92,Low,High,,6,87,Low,Yes,2,Medium,High,Public,,3,No,College,Moderate
+"Bucciarati, Bruno (ブローノ・ブチャラティ)",18.0,87,Medium,Medium,,7,94,Medium,Yes,2,Medium,Medium,Public,Positive,4,No,High School,Moderate
+"Brando, Diego (ディエゴ・ブランド)",21.0,67,Medium,High,,9,80,Medium,,3,,Medium,Public,Neutral,4,No,College,Near
+Shin-ah (シンア),22.0,64,Low,High,No,8,95,Medium,Yes,3,High,Medium,Public,Neutral,2,No,High School,Moderate
+"Nagisa, Kaworu (渚 カヲル)",23.0,83,Medium,Medium,No,5,96,Medium,,0,High,Medium,Private,,1,No,College,Near
+"Li, Shaoran (李 小狼)",19.0,69,Medium,High,Yes,8,74,Low,,1,,Medium,Public,Neutral,3,No,College,Near
+"Saten, Ruiko (佐天 涙子)",18.0,84,Medium,Medium,No,6,65,Medium,Yes,3,Low,Medium,Private,Neutral,2,No,High School,Moderate
+"Okkotsu, Yuuta (乙骨 憂太)",17.0,93,High,Low,No,7,73,High,Yes,1,High,Low,Private,Neutral,3,No,Postgraduate,Moderate
+"Ushiromiya, Battler (右代宮 戦人)",12.0,87,Medium,Medium,No,7,73,Medium,Yes,1,Low,Low,Public,Negative,2,No,College,Near
+Kyon (キョン),20.0,89,Medium,High,No,5,99,Medium,Yes,0,Low,Medium,Public,Negative,2,No,College,Near
+"Suou, Tamaki (須王 環)",22.0,92,High,Low,Yes,7,82,High,Yes,1,,Medium,Public,Positive,1,No,High School,Moderate
+"Nico, Robin (ニコ・ロビン)",23.0,93,Medium,Medium,No,4,98,Medium,Yes,4,Low,Medium,Private,Neutral,3,No,High School,Near
+"Kaga, Kouko (加賀 香子)",14.0,90,Low,Medium,,8,92,Medium,Yes,3,,Low,Private,,2,No,College,Near
+"Isshiki, Iroha (一色 いろは)",22.0,94,Medium,Medium,No,9,55,Low,Yes,0,Low,Medium,Public,Positive,2,No,College,Near
+Obi (オビ),17.0,76,Medium,Low,,9,87,Medium,Yes,3,Medium,Medium,Private,,3,No,College,Moderate
+Satoshi (サトシ),,65,Medium,Low,,9,77,Medium,Yes,0,Low,Medium,Public,Negative,3,No,College,Moderate
+"Tendou, Satori (天童 覚)",15.0,72,Medium,Medium,No,9,64,Medium,Yes,2,Medium,Medium,Public,Negative,1,No,High School,Near
+"Elric, Alphonse (アルフォンス・エルリック)",15.0,96,High,High,Yes,5,85,Low,Yes,3,,Medium,Private,,4,No,High School,Near
+"Tsugumi, Seishirou (鶫 誠士郎)",17.0,66,Medium,Medium,Yes,9,66,High,,1,Low,Medium,Public,Positive,2,No,High School,Near
+"Honda, Tooru (本田 透)",28.0,87,Medium,Low,,8,77,Medium,Yes,3,Medium,Medium,Public,Neutral,4,No,High School,Far
+"von Lohengramm, Reinhard (ラインハルト・フォン・ローエングラム)",16.0,91,High,High,Yes,7,82,Medium,Yes,2,Medium,Medium,Public,,2,No,High School,Far
+"Kuroba, Kaito (黒羽 快斗)",25.0,83,Medium,Medium,Yes,8,54,Low,Yes,0,,Medium,Private,Neutral,1,No,College,Moderate
+Maple (メイプル),15.0,62,High,Medium,No,7,69,Medium,,1,Low,High,Public,Neutral,3,Yes,High School,Near
+"Itoshiki, Nozomu (糸色 望)",,99,Low,Medium,,9,53,High,Yes,0,Medium,High,Private,Neutral,3,No,High School,Near
+"Satou, Tatsuhiro (佐藤 達広)",18.0,73,Low,High,Yes,8,99,Low,Yes,5,Medium,High,Private,,3,No,Postgraduate,Near
+Batou (バトー),12.0,68,Medium,Medium,No,7,62,Medium,Yes,0,Medium,High,Public,,3,No,College,Near
+"Senji, Kiyomasa (千地 清正)",14.0,62,Low,Medium,No,9,88,Medium,Yes,0,Medium,Medium,Public,Positive,2,No,High School,Near
+"Heartnet, Train (トレイン＝ハートネット)",21.0,70,Low,High,No,8,68,Medium,Yes,0,Low,Medium,Public,Neutral,2,No,High School,Moderate
+"Minami, Kotori (南 ことり)",17.0,64,High,Medium,Yes,9,80,Low,,2,High,Medium,Public,Neutral,3,No,College,Near
+"Kaneda, Shoutarou (金田 正太郎)",14.0,60,High,Medium,,7,80,Medium,,2,High,High,Private,Negative,3,Yes,College,Moderate
+Togame (とがめ),20.0,70,Low,Medium,No,8,78,Low,Yes,2,Low,High,Public,Positive,3,No,College,Near
+"Blouse, Sasha (サシャ・ブラウス)",34.0,69,Medium,High,Yes,7,81,Medium,No,2,High,Medium,Public,Positive,5,No,College,Moderate
+"Stadtfeld, Kallen (カレン・シュタットフェルト, 紅月カレン)",26.0,80,Medium,Medium,No,6,58,Medium,Yes,3,Low,High,Public,Positive,3,No,Postgraduate,Moderate
+"Wei, Wuxian (魏 无羡)",15.0,93,Medium,Medium,Yes,7,72,Medium,Yes,2,Medium,Medium,Public,Neutral,3,Yes,High School,Near
+"Shirai, Kuroko (白井 黒子)",15.0,92,Medium,Medium,,5,51,Medium,Yes,2,Low,Medium,Private,Positive,3,Yes,High School,Moderate
+Shiroe (シロエ),18.0,79,Medium,Medium,Yes,8,94,Medium,Yes,3,Low,High,Public,Neutral,2,No,College,Near
+Watashi (私),14.0,75,Medium,Medium,Yes,6,90,Medium,No,3,Medium,Medium,Public,,3,No,College,Moderate
+"Kiyose, Haiji (清瀬 灰二)",19.0,68,Medium,Medium,Yes,9,52,High,Yes,0,Low,Medium,Public,Positive,2,No,College,Near
+"Pucci, Enrico (エンリコ・プッチ)",19.0,63,Medium,Low,No,6,69,Medium,Yes,1,Medium,High,Public,,2,No,High School,Moderate
+"Asagiri, Gen (あさぎり ゲン)",18.0,85,High,Medium,No,8,67,Low,Yes,4,,Medium,Private,Neutral,3,Yes,High School,Near
+"Zeppeli, Gyro (ジャイロ・ツェペリ)",25.0,99,Medium,Low,No,7,72,High,Yes,1,Medium,High,Private,,2,No,College,Moderate
+"Suzuki, Iruma (鈴木 入間)",19.0,75,Low,Medium,No,9,68,Medium,Yes,0,,High,Public,Negative,3,No,High School,Far
+"Amamiya, Ren (雨宮 蓮)",20.0,61,Medium,Medium,No,6,68,Medium,Yes,1,Medium,High,Private,Positive,3,No,College,Near
+Vanitas (ヴァニタス),21.0,87,Medium,High,,7,57,Medium,,0,Low,Medium,Public,Positive,4,No,High School,Near
+"Sawamura, Eijun (沢村 栄純)",26.0,60,Medium,Medium,No,8,96,Medium,,2,Medium,Low,Private,Positive,2,No,High School,Near
+"Deviluke, Momo Belia (モモ・ベリア・デビルーク)",25.0,96,Medium,Low,Yes,6,59,Low,Yes,0,Low,High,Public,Neutral,1,No,Postgraduate,Near
+Fubuki (地獄のフブキ),38.0,61,Low,Low,Yes,8,74,Medium,Yes,1,Low,Medium,Public,Positive,4,No,High School,Moderate
+"Wang, Qi (王騎)",21.0,69,Low,Medium,Yes,6,56,Medium,Yes,0,Low,High,Public,Positive,4,No,High School,Near
+Sara (サラ),22.0,73,High,High,Yes,5,69,Low,Yes,2,High,Low,Private,Positive,4,No,College,Moderate
+"Kururugi, Suzaku (枢木 スザク)",10.0,84,Medium,Medium,Yes,9,98,High,Yes,1,Medium,Medium,Private,Neutral,3,No,College,Moderate
+Pochita (ポチタ),20.0,74,High,Medium,,8,81,Low,Yes,1,Low,High,Private,Neutral,2,No,High School,Moderate
+"Boa, Hancock (ボア・ハンコック)",17.0,87,Medium,High,No,9,58,Medium,Yes,3,Low,Medium,Public,,2,Yes,High School,Near
+"Kirisaki, Chitoge (桐崎 千棘)",24.0,92,High,Low,Yes,6,50,High,No,1,Medium,High,Public,Positive,2,No,High School,Near
+"Ichinose, Chizuru (一ノ瀬 ちづる)",20.0,81,High,Medium,Yes,6,83,Medium,Yes,1,,High,Public,Positive,3,No,High School,Near
+"Yamamoto, Takeshi (山本 武)",21.0,63,Medium,Medium,No,6,68,Medium,Yes,0,Low,Medium,Public,Positive,2,No,College,Near
+"Mori, Buntarou (森 文太郎)",22.0,74,High,Low,Yes,6,76,Low,Yes,0,Low,High,Public,,1,No,High School,Moderate
+"Tadokoro, Megumi (田所 恵)",23.0,69,Medium,High,No,7,51,Medium,Yes,0,High,Medium,Public,Negative,4,No,College,Moderate
+Akaza (猗窩座),21.0,67,Low,Low,Yes,5,92,High,Yes,1,Low,Medium,Public,Neutral,4,Yes,Postgraduate,Near
+"Furukawa, Akio (古河秋生)",8.0,92,Low,High,,6,64,Medium,,1,Medium,Medium,Public,Neutral,3,No,Postgraduate,Near
+"Hoshino, Yutaka (星野 裕)",16.0,65,Medium,High,No,9,88,Medium,Yes,2,Low,Medium,Public,Neutral,3,No,Postgraduate,Far
+"Watch, Leonardo (レオナルド・ウォッチ)",28.0,72,Medium,Medium,No,6,68,Medium,Yes,0,Low,High,Public,,3,No,High School,Moderate
+"Kani, Nayuta (可児 那由多)",18.0,64,Medium,Low,Yes,8,77,Low,Yes,2,Medium,Medium,Public,Neutral,2,No,College,Near
+"Isagi, Yoichi (潔 世一)",18.0,75,High,Medium,,8,68,Medium,Yes,1,,Medium,Public,Positive,3,No,High School,Moderate
+Saber (セイバー),6.0,79,High,Medium,Yes,5,81,Low,Yes,1,Low,Medium,Private,,3,No,College,Moderate
+Kenshirou (ケンシロウ),19.0,84,Low,High,,8,77,Low,Yes,1,,Medium,Public,,3,No,High School,Near
+"Tsuyuri, Kanao (栗花落 カナヲ)",13.0,94,Medium,Medium,Yes,7,62,Low,Yes,3,High,High,Private,Positive,2,No,College,Moderate
+"Otosaka, Yuu (乙坂 有宇)",,87,Medium,High,,7,90,High,Yes,2,,Medium,Public,Neutral,5,No,Postgraduate,Near
+Hiro (ヒロ),9.0,79,Medium,Medium,No,7,65,Low,Yes,0,High,Medium,Public,Positive,2,No,College,Near
+Ray (レイ),20.0,92,Low,Medium,Yes,8,71,Low,Yes,2,Medium,Medium,Public,Neutral,2,No,Postgraduate,Near
+"Dragneel, Natsu (ナツ・ドラグニル)",25.0,99,Low,Medium,No,8,95,Medium,Yes,3,Medium,High,Public,Neutral,3,No,High School,Moderate
+Beatrice (ベアトリス),21.0,72,Medium,Medium,Yes,6,87,Low,Yes,0,,Low,Public,Positive,3,No,High School,Near
+"Akise, Aru (秋瀬 或)",24.0,82,Low,High,Yes,5,56,Low,,0,,High,Public,Neutral,2,No,Postgraduate,Near
+Guts (ガッツ),20.0,95,Medium,High,Yes,8,98,High,Yes,3,Medium,High,Public,,3,No,College,Moderate
+Dandy (ダンディ),10.0,82,High,Medium,Yes,5,96,Low,No,3,Medium,Medium,Public,Positive,4,No,College,Near
+"Koibuchi, Kuranosuke (鯉淵 蔵之介)",18.0,73,Medium,Medium,No,10,52,Medium,Yes,1,,Medium,Private,Positive,2,No,High School,Near
+"Hinata, Shouyou (日向 翔陽)",23.0,98,Low,High,Yes,8,100,Medium,Yes,0,Low,Medium,Public,Neutral,4,No,College,Near
+Uta (ウタ),18.0,91,Low,Low,,5,72,Medium,Yes,2,Low,Medium,Private,Neutral,2,No,High School,Near
+"Son, Gokuu (孫 悟空)",34.0,72,High,Medium,,8,71,High,,2,High,Medium,Public,Positive,3,No,College,Near
+Momonga (モモンガ),21.0,94,High,Medium,,7,69,Low,Yes,3,Medium,High,Public,Neutral,2,No,College,Near
+"Kuronuma, Sawako (黒沼 爽子)",23.0,92,High,Low,Yes,6,83,Low,Yes,1,Low,Low,Public,Positive,2,Yes,College,Near
+"Kaminari, Denki (上鳴 電気)",9.0,89,Low,Medium,,6,82,Low,Yes,3,Medium,Medium,Private,Neutral,3,No,College,Moderate
+"Mustang, Roy (ロイ・マスタング)",,93,Medium,High,Yes,8,68,High,Yes,0,,High,Private,Positive,2,No,Postgraduate,Moderate
+Yui (ユイ),14.0,81,Medium,High,No,6,52,Medium,Yes,0,Low,High,Public,Positive,3,No,High School,Far
+"Joestar, Johnny (ジョニィ・ジョースター)",18.0,90,High,High,Yes,8,77,Low,Yes,0,Medium,High,Public,Positive,3,No,High School,Near
+Kagura (神楽),27.0,95,Medium,Low,Yes,7,58,Medium,Yes,0,Low,Low,Public,,4,No,College,Near
+"Nakahara, Misaki (中原 岬)",16.0,77,High,Medium,No,7,78,Low,Yes,4,,High,Public,Positive,3,No,High School,Near
+Makima (マキマ),27.0,87,High,Medium,Yes,6,73,Medium,Yes,2,Medium,Medium,Public,Neutral,3,No,Postgraduate,Near
+"Hyuuga, Hinata (日向 ヒナタ)",25.0,97,Medium,Medium,Yes,6,78,Medium,Yes,3,High,Low,Private,Neutral,3,Yes,College,Moderate
+"Mankanshoku, Mako (満艦飾 マコ)",14.0,91,Medium,High,,6,70,Low,Yes,0,High,High,Public,,3,No,High School,Near
+Nezumi (ネズミ),24.0,89,Medium,Low,Yes,7,57,High,Yes,0,Medium,Low,Private,Positive,2,No,High School,Moderate
+"Makishima, Shougo (槙島 聖護)",15.0,94,High,Medium,Yes,6,66,Medium,Yes,1,High,Medium,Public,Positive,3,No,High School,Near
+"Hyuuga, Neji (日向 ネジ)",20.0,86,Low,High,,7,69,Low,Yes,2,Low,Low,Public,Negative,3,No,College,Near
+Meliodas (メリオダス),18.0,93,High,Low,Yes,6,85,Medium,Yes,5,,High,Public,Positive,3,Yes,High School,Far
+"Emiya, Shirou (衛宮 士郎)",24.0,81,High,Low,,9,80,Low,Yes,3,,High,Public,,2,No,College,Moderate
+Nanachi (ナナチ),27.0,85,Medium,Medium,Yes,8,94,Low,Yes,2,Low,Medium,Private,,2,No,Postgraduate,Near
+Albedo (アルベド),21.0,81,Medium,Medium,Yes,6,79,Medium,Yes,2,Medium,Medium,Public,Neutral,5,No,College,Moderate
+Gaara (我愛羅),27.0,94,Medium,Medium,,7,81,Medium,No,1,Low,High,Public,Negative,4,No,College,Near
+"de Jarjayes, Oscar François (オスカル・フランソワ・ド・ジャルジェ)",25.0,65,High,High,No,6,50,Low,Yes,2,High,Medium,Public,,3,No,High School,Moderate
+"Hatsuseno, Alpha (初瀬野アルファ)",8.0,67,Low,Low,Yes,6,94,High,Yes,1,Low,Low,Private,Positive,4,No,College,Moderate
+"Sarashina, Ruka (更科 瑠夏)",11.0,88,Medium,Medium,No,9,78,High,Yes,1,Medium,High,Public,Negative,4,No,Postgraduate,Moderate
+"Hiruma, Youichi (蛭魔 妖一)",20.0,82,Medium,Medium,,5,64,Medium,Yes,1,Low,High,Private,,5,No,High School,Near
+"Uraraka, Ochako (麗日 お茶子)",24.0,68,Medium,High,Yes,7,91,Medium,Yes,0,Medium,Medium,Public,Neutral,3,No,College,Near
+"Kanda, Yuu (神田 ユウ)",24.0,75,Medium,Medium,No,7,76,Low,Yes,0,Medium,Medium,Private,Neutral,4,No,Postgraduate,Near
+Hestia (ヘスティア),21.0,94,Medium,Low,,7,57,Low,Yes,2,Medium,Medium,Public,Negative,4,Yes,High School,Near
+"Donquixote, Doflamingo (ドンキホーテ・ドフラミンゴ)",16.0,84,Medium,High,Yes,7,93,Medium,No,1,Medium,Low,Public,Negative,5,No,College,Moderate
+"Kurosaki, Ichigo (黒崎 一護)",28.0,98,Medium,Medium,No,5,90,Medium,Yes,3,Medium,Medium,Public,Neutral,3,No,College,Near
+Piccolo (ピッコロ),14.0,89,Medium,Medium,No,8,77,Medium,Yes,2,Low,Medium,Public,Positive,5,No,High School,Near
+"Tsukino, Usagi (月野 うさぎ)",21.0,80,High,Medium,No,5,65,Medium,Yes,2,Medium,High,Public,Positive,1,No,College,Moderate
+"Yazawa, Niko (矢澤 にこ)",15.0,90,High,Low,,9,52,High,Yes,0,Medium,High,Private,Negative,3,No,Postgraduate,Moderate
+"Nagatoro, Hayase (長瀞 早瀬)",17.0,80,High,Medium,,7,88,Medium,Yes,2,High,Medium,Public,Positive,2,No,College,Near
+"Oreki, Houtarou (折木 奉太郎)",17.0,99,High,Medium,No,6,89,Medium,Yes,2,,Medium,Public,Neutral,3,No,High School,Near
+Madara (斑),27.0,69,Low,High,Yes,8,76,Low,Yes,3,High,Medium,Public,Positive,3,No,College,Near
+Kobayashi (小林さん),16.0,76,Medium,Medium,No,5,61,Medium,Yes,2,High,High,Public,Neutral,5,No,College,Near
+"Souma, Yuki (草摩 由希)",16.0,68,High,Medium,Yes,9,94,Medium,Yes,4,Medium,Medium,Public,Positive,2,No,High School,Far
+"Asuka, Ryou (飛鳥 了)",20.0,64,Medium,High,No,5,96,Medium,Yes,0,Low,Medium,Private,Neutral,4,No,High School,Near
+Sesshoumaru (殺生丸),21.0,83,Low,High,,7,96,Low,Yes,2,Low,High,Public,Neutral,3,No,Postgraduate,Moderate
+"Arlert, Armin (アルミン・アルレルト)",30.0,91,Medium,High,,9,63,Medium,Yes,4,Medium,Medium,Private,Neutral,2,Yes,High School,Near
+"Kotegawa, Yui (古手川 唯)",15.0,65,Medium,Low,Yes,6,88,Low,Yes,1,Medium,Medium,Public,Neutral,3,No,Postgraduate,Near
+"Kirishima, Touka (霧嶋 董香)",26.0,85,High,Medium,Yes,9,61,Medium,Yes,0,High,High,Public,Positive,3,No,College,Far
+"Novachrono, Julius (ユリウス・ノヴァクロノ)",13.0,61,Low,High,,6,63,Medium,Yes,2,Medium,Medium,Public,Positive,0,No,High School,Near
+Kurapika (クラピカ),28.0,90,Medium,High,No,7,77,Medium,Yes,2,Medium,Medium,Private,,3,Yes,Postgraduate,Near
+"Urameshi, Yuusuke (浦飯 幽助)",23.0,72,High,Medium,Yes,7,97,High,Yes,1,Medium,Low,Public,Positive,2,No,High School,Near
+"Namikaze, Minato (波風 ミナト)",26.0,81,High,Medium,Yes,6,64,High,Yes,0,Medium,High,Public,Negative,3,No,High School,Near
+"Shiina, Mayuri (椎名 まゆり)",27.0,90,Low,Medium,,7,84,Low,Yes,2,Medium,High,Private,Negative,2,No,High School,Near
+"Kasuga, Arata (春日 アラタ)",,61,Medium,High,,7,79,Medium,Yes,2,Low,Medium,Public,Positive,2,No,High School,Moderate
+"Tokuchi, Toua (渡久地 東亜)",29.0,78,Medium,High,Yes,5,77,Low,Yes,1,Medium,Medium,Public,Neutral,3,No,High School,Moderate
+"Osana, Najimi (長名 なじみ)",,76,High,Medium,No,6,50,Medium,Yes,2,Medium,Medium,Private,Positive,2,No,High School,Near
+Genos (ジェノス),15.0,98,Low,Medium,Yes,6,97,Medium,Yes,1,Low,Medium,Private,Positive,2,No,College,Near
+"Sutcliff, Grell (グレル・サトクリフ)",31.0,74,Medium,Medium,Yes,10,57,Medium,Yes,1,Medium,High,Private,Neutral,4,No,College,Near
+"Kuroki, Tomoko (黒木 智子)",15.0,93,Medium,Medium,Yes,7,80,Medium,Yes,1,Medium,Medium,Public,Positive,4,No,College,Near
+"Forger, Loid (ロイド・フォージャー)",31.0,82,Medium,High,Yes,7,61,Medium,,1,Medium,Medium,Public,Positive,1,No,High School,Moderate
+"Hughes, Maes (マース・ヒューズ)",24.0,88,Medium,Low,Yes,10,93,Medium,Yes,2,Low,Medium,Private,,3,No,High School,Moderate
+"Okabe, Rintarou (岡部 倫太郎)",26.0,98,Medium,High,No,10,74,High,Yes,3,Medium,Medium,Public,Neutral,2,No,Postgraduate,Near
+"Miyazono, Kaori (宮園 かをり)",26.0,80,High,Medium,Yes,5,93,High,Yes,1,High,Medium,Public,Positive,2,No,Postgraduate,Near
+"Armstrong, Olivier Mira (オリヴィエ・ミラ・アームストロング)",22.0,73,High,Medium,Yes,9,63,High,No,3,High,Medium,Private,Positive,2,Yes,High School,Near
+"Kaiki, Deishuu (貝木 泥舟)",20.0,94,Medium,High,Yes,7,53,High,No,1,High,High,Public,,1,No,Postgraduate,Near
+"Sonoda, Umi (園田 海未)",22.0,68,Medium,High,Yes,8,52,Low,Yes,1,,Medium,Private,Positive,2,No,High School,Moderate
+Black☆Star (ブラック☆スター),17.0,84,High,Medium,,7,61,Low,,3,Medium,High,Public,Positive,3,No,High School,Near
+"Hikigaya, Hachiman (比企谷 八幡)",28.0,99,High,Medium,No,5,63,Low,Yes,4,Low,Medium,Private,Positive,3,No,College,Near
+"Yoshida, Haru (吉田 春)",17.0,86,Medium,Medium,Yes,8,67,Low,Yes,0,,Medium,Public,,4,No,College,Near
+"Ooe, Kintarou (大江 錦太郎)",27.0,68,Medium,High,,5,91,Low,,0,Medium,Medium,Public,Neutral,3,No,College,Near
+"Nanase, Haruka (七瀬 遙)",24.0,67,High,High,,7,64,Medium,Yes,1,,High,Public,,3,No,College,Moderate
+"Grimmer, Wolfgang (ヴォルフガンググリマー)",24.0,86,Medium,High,No,7,93,Low,Yes,3,Low,Low,Public,Positive,4,No,College,Far
+"Komi, Shouko (古見 硝子)",,92,High,Low,No,6,67,Medium,Yes,0,High,Medium,Public,,3,No,High School,Near
+"Testarossa, Fate (フェイト・テスタロッサ)",16.0,63,High,Medium,Yes,7,81,High,Yes,0,Medium,Medium,Public,Positive,5,No,High School,Near
+"Kumagawa, Misogi (球磨川 禊)",15.0,87,Medium,High,Yes,4,69,Medium,No,2,Low,Low,Private,Positive,3,No,College,Moderate
+Haku (ハク),23.0,65,Medium,High,Yes,7,80,Medium,No,1,Low,Medium,Public,Neutral,4,No,College,Moderate
+"Itsuka, Kotori (五河 琴里)",7.0,88,Medium,Medium,Yes,8,73,Low,Yes,0,Medium,Low,Private,Positive,5,No,College,Moderate
+"Baji, Keisuke (場地 圭介)",15.0,80,Medium,Medium,Yes,7,90,High,,4,Low,Medium,Public,Positive,1,No,High School,Near
+"Honda, Gorou (茂野 吾郎)",22.0,64,Medium,Medium,Yes,4,76,Low,Yes,2,Medium,Medium,Private,,4,No,High School,Near
+"Hayasaka, Ai (早坂 愛)",21.0,99,High,High,No,5,59,Low,Yes,1,Medium,Medium,Private,Neutral,2,No,Postgraduate,Moderate
+"Hoshino, Ruby (星野 瑠美衣)",18.0,80,Medium,Low,,6,55,Medium,Yes,1,Medium,Medium,Public,Negative,3,No,College,Far
+"Kuran, Kaname (玖蘭 枢)",18.0,74,High,Medium,Yes,5,78,High,Yes,1,Low,Medium,Public,Positive,2,No,College,Near
+Kusuriuri (薬売り),,86,Low,Medium,,5,72,Low,Yes,2,Low,Low,Public,Positive,3,No,College,Moderate
+"Gouda, Takeo (剛田 猛男)",26.0,66,Low,Low,No,7,53,Medium,Yes,1,Medium,Medium,Public,Negative,3,No,Postgraduate,Moderate
+"Sasaki, Haise (佐々木 琲世)",,89,Low,Medium,Yes,7,64,Medium,No,0,Low,Medium,Private,Positive,3,No,Postgraduate,Near
+"Break, Xerxes (ザークシーズ＝ブレイク)",23.0,98,Medium,Low,No,8,73,Medium,,0,Low,Low,Private,Negative,5,No,College,Moderate
+"Kousaka, Reina (高坂 麗奈)",19.0,77,Medium,Medium,,9,96,Low,Yes,0,Medium,Medium,Public,Positive,4,No,High School,Moderate
+"Takasugi, Shinsuke (高杉 晋助)",23.0,67,High,High,,7,57,Medium,Yes,1,Medium,High,Public,,4,No,High School,Moderate
+"Khun, Aguero Agnes (쿤 아게로 아그니스 / クン・アゲロ・アグネス)",17.0,89,High,Medium,No,7,81,High,Yes,0,,Low,Public,Neutral,2,No,Postgraduate,Moderate
+"Shirogane, Miyuki (白銀 御行)",17.0,90,Medium,Low,,6,100,Medium,Yes,2,Low,High,Public,Negative,1,No,Postgraduate,Near
+Akashi (明石),20.0,60,Medium,Low,Yes,4,79,Medium,Yes,1,Medium,Low,Public,,4,No,High School,Far
+"Wolfwood, Nicholas D. (ニコラス・D・ウルフウッド)",14.0,80,Medium,Medium,No,4,93,Medium,Yes,3,High,Medium,Private,Neutral,2,No,Postgraduate,Moderate
+Brook (ブルック),15.0,96,High,High,No,6,86,Medium,Yes,1,Low,High,Private,,2,No,High School,Near
+"Kurosawa, Kakeru (黒沢翔)",,68,Medium,High,No,7,95,Medium,,0,Low,Medium,Public,Neutral,2,No,Postgraduate,Near
+"Aomine, Daiki (青峰 大輝)",19.0,96,Medium,Medium,No,8,92,Medium,Yes,0,Medium,Medium,Public,Positive,1,No,Postgraduate,Moderate
+San (サン),25.0,64,Low,Medium,No,8,97,Low,Yes,2,Medium,High,Private,Positive,2,No,Postgraduate,Moderate
+"Haruno, Sakura (春野 サクラ)",26.0,81,Medium,Medium,No,7,85,Low,,1,Low,Medium,Public,Neutral,3,No,College,Near
+C.C. (シー・ツー),18.0,96,Medium,High,,8,52,High,Yes,3,Medium,Medium,Public,Positive,4,No,Postgraduate,Near
+"Voltia, Luck (ラック・ボルディア)",9.0,69,High,High,Yes,6,51,Medium,Yes,1,High,Medium,Public,Positive,3,No,Postgraduate,Far
+"Inverse, Lina (リナ・インバース)",23.0,68,Medium,High,No,7,91,Medium,Yes,0,High,Medium,Public,Negative,4,Yes,College,Moderate
+"Zoë, Hange (ハンジ・ゾエ)",19.0,98,High,Medium,,8,96,Medium,No,2,Low,High,Private,Neutral,3,No,High School,Near
+Phil (フィル),3.0,79,Low,Low,No,10,77,Medium,Yes,0,Medium,High,Private,Positive,2,No,College,Near
+"Hatake, Kakashi (はたけ カカシ)",32.0,91,Medium,Medium,Yes,6,94,High,Yes,2,Medium,Medium,Private,Positive,3,Yes,Postgraduate,Near
+"Jaegerjaquez, Grimmjow (グリムジョー・ジャガージャック)",18.0,93,High,Medium,Yes,6,75,Medium,No,2,Low,Medium,Public,Negative,4,No,College,Moderate
+"Tokoyami, Fumikage (常闇 踏陰)",10.0,80,Low,Medium,Yes,7,81,Medium,Yes,0,Medium,Medium,Public,Positive,1,No,College,Near
+"Kanoe, Yuuko (庚 夕子)",16.0,87,Medium,Medium,Yes,4,76,Low,Yes,0,High,High,Private,Neutral,2,No,College,Moderate
+"Gundou, Misuzu (群堂 みすず)",14.0,75,Medium,Medium,No,6,99,Low,,2,Low,Medium,Public,Neutral,4,No,High School,Near
+Ban (バン),19.0,75,High,High,,4,97,Low,Yes,2,High,High,Public,Positive,4,Yes,College,Moderate
+Reg (レグ),10.0,78,Medium,Low,Yes,7,63,Low,Yes,3,Medium,Medium,Private,Positive,3,No,Postgraduate,Moderate
+"Akashi, Seijuurou (赤司 征十郎)",20.0,81,Medium,High,Yes,7,54,Low,Yes,3,Low,Medium,Public,Positive,2,No,College,Near
+"Oshino, Ougi (忍野 扇)",23.0,76,High,High,,7,62,Low,,2,Low,High,Public,Positive,2,No,High School,Moderate
+"Hirako, Shinji (平子 真子)",14.0,67,Medium,Medium,No,9,94,Low,Yes,1,Medium,Medium,Public,Negative,4,No,High School,Near
+"Shikimori, Miyako (式守都)",16.0,76,Medium,High,Yes,7,76,Medium,Yes,1,Medium,Medium,Private,Positive,3,No,High School,Near
+"Kageyama, Shigeo (影山 茂夫)",21.0,84,Medium,High,No,7,90,Medium,Yes,5,,Medium,Public,,3,No,College,Near
+"Hachikuji, Mayoi (八九寺 真宵)",27.0,76,Medium,Medium,Yes,6,72,Medium,Yes,2,Medium,Medium,Public,Positive,3,No,College,Moderate
+"Littner, Yoko (ヨーコ・リットナー)",13.0,90,Medium,Medium,,8,81,High,Yes,4,Low,High,Public,Positive,2,Yes,College,Near
+"Tomoe, Mami (巴 マミ)",15.0,85,High,Medium,,9,97,High,Yes,1,,Medium,Private,Negative,3,No,High School,Moderate
+"Sakurasawa, Sumi (桜沢 墨)",21.0,72,Medium,High,No,8,98,Medium,Yes,1,Low,Medium,Public,Negative,5,No,College,Near
+Ginko (ギンコ),21.0,84,High,High,Yes,6,98,High,Yes,0,Low,Medium,Public,Positive,2,No,College,Near
+Kuroyukihime (黒雪姫),29.0,63,High,High,No,7,75,Low,No,2,Medium,Low,Public,Positive,3,No,High School,Moderate
+"Xie, Lian (谢 怜)",20.0,67,Medium,High,No,5,79,Medium,Yes,0,Low,Medium,Private,Positive,3,No,Postgraduate,Near
+"Hayakawa, Aki (早川 アキ)",22.0,91,Medium,Medium,Yes,9,68,Low,Yes,3,High,Medium,Public,Neutral,3,No,College,Moderate
+"Tenma White, Gabriel (天真=ガヴリール=ホワイト)",10.0,61,Low,High,,8,66,Low,Yes,1,Low,Medium,Private,Negative,1,No,High School,Moderate
+Vivy (ヴィヴィ),23.0,89,Low,Medium,Yes,7,60,Medium,Yes,0,High,Medium,Public,Positive,3,No,High School,Near
+"Higurashi, Kagome (日暮 かごめ)",18.0,74,Medium,Medium,Yes,8,62,High,Yes,1,Medium,Medium,Public,,3,No,High School,Moderate
+"Sengoku, Nadeko (千石 撫子)",19.0,94,High,Medium,Yes,8,93,Low,Yes,1,Low,High,Public,,3,Yes,College,Far
+"Oikawa, Tooru (及川 徹)",36.0,79,Medium,Medium,No,7,82,High,Yes,1,Low,Medium,Public,Positive,3,No,High School,Near
+"Takami, Keigo (鷹見 啓悟)",20.0,79,Low,Low,Yes,6,80,Medium,Yes,1,High,Medium,Public,Positive,3,No,College,Moderate
+Franky (フランキー),27.0,75,Medium,High,No,8,97,Medium,Yes,0,Low,Medium,Public,Neutral,4,No,High School,Moderate
+"Montgomery, Lucy Maud (ルーシー・モード・モンゴメリ)",18.0,71,Medium,High,,5,65,Medium,,2,Medium,Medium,Public,Neutral,3,Yes,High School,Near
+"Nifuji, Hirotaka (二藤 宏高)",19.0,64,Medium,High,No,7,85,Medium,Yes,2,High,High,Public,Neutral,3,No,College,Far
+"Hasegawa, Langa (馳河 ランガ)",28.0,64,Medium,High,No,8,86,Low,Yes,1,Low,Medium,Public,Positive,4,No,High School,Moderate
+"Tsushima, Yoshiko (津島 善子)",20.0,72,Medium,Low,Yes,7,63,Medium,Yes,0,,Medium,Private,Neutral,3,No,High School,Near
+"Komai, Hasuki (狛井 蓮季)",12.0,75,Low,Low,No,8,69,Medium,Yes,1,Medium,Medium,Private,Neutral,5,No,College,Near
+"Trafalgar, Law (トラファルガー・ロー)",18.0,93,Medium,High,,7,85,High,Yes,3,Medium,Low,Private,,4,No,College,Near
+Lavi (ラビ),13.0,95,Low,High,No,8,99,Medium,Yes,0,,Medium,Public,Neutral,3,No,College,Near
+"Suou, Mikoto (周防 尊)",25.0,85,Medium,Low,,4,84,Low,No,3,Low,High,Public,Negative,2,No,High School,Near
+Akame (アカメ),20.0,96,Medium,Low,No,9,62,Medium,Yes,2,,Medium,Public,Positive,4,No,Postgraduate,Near
+Yona (ヨナ),14.0,93,Medium,Medium,Yes,8,93,Medium,Yes,3,Low,Medium,Public,,4,No,High School,Moderate
+"Akagi, Shigeru (赤木しげる)",19.0,63,Medium,Low,No,6,83,High,Yes,0,Medium,High,Private,,3,No,High School,Near
+"Katagiri, Yuuichi (片切 友一)",15.0,89,High,Medium,,7,64,Low,Yes,2,,High,Public,Positive,3,No,College,Near
+Alice (アリス),30.0,62,Medium,High,,8,50,Medium,Yes,2,,Medium,Private,Positive,2,No,Postgraduate,Moderate
+"Shiratori, Aira (白鳥 愛羅)",15.0,84,Medium,High,Yes,7,93,Medium,Yes,0,,Medium,Public,Negative,2,No,Postgraduate,Moderate
+Ichigo (イチゴ),27.0,96,Low,High,No,7,78,Medium,Yes,2,High,Medium,Private,Neutral,3,No,College,Near
+"Chitanda, Eru (千反田 える)",13.0,96,High,Medium,Yes,6,76,Medium,Yes,0,Low,Medium,Public,Positive,3,No,College,Near
+"Kirigaya, Kazuto (桐ヶ谷 和人)",29.0,98,Medium,Medium,Yes,7,56,Medium,Yes,2,Medium,Medium,Public,Negative,2,No,College,Near
+"Nakamura, Sawa (仲村 佐和)",22.0,80,Medium,Low,No,8,88,Low,Yes,1,Low,High,Private,Negative,3,No,High School,Near
+"Niizuma, Eiji (新妻 エイジ)",22.0,63,Medium,High,Yes,7,96,Low,Yes,1,,High,Public,Neutral,3,No,Postgraduate,Near
+"Akemi, Homura (暁美 ほむら)",23.0,89,Medium,High,Yes,6,93,Medium,Yes,2,,High,Public,Positive,3,No,High School,Near
+Sabo (サボ),15.0,61,Low,Medium,No,6,72,Medium,Yes,1,Low,Low,Public,Positive,4,No,High School,Moderate
+"Fushiguro, Megumi (伏黒 恵)",25.0,91,Low,Medium,,5,92,Low,Yes,0,Medium,Medium,Public,Positive,2,No,High School,Near
+Envy (エンヴィー),,82,Medium,Medium,Yes,5,72,Low,Yes,1,Low,Medium,Public,,3,No,High School,Moderate
+Lubbock (ラバック),15.0,73,Medium,High,,6,82,High,No,0,Medium,Medium,Public,Positive,4,No,Postgraduate,Near
+"Sakurajima, Mai (桜島 麻衣)",28.0,98,Medium,Low,Yes,7,84,High,Yes,4,High,Medium,Public,,3,No,High School,Moderate
+"Hitsugaya, Toushirou (日番谷 冬獅郎)",14.0,85,Medium,High,,6,92,Medium,Yes,3,Low,Medium,Public,Neutral,5,No,Postgraduate,Near
+"Cheng, Xiaoshi (程 小時)",19.0,77,Medium,Medium,Yes,6,53,Low,Yes,0,Medium,Medium,Public,Neutral,2,No,High School,Near
+"Fujiwara, Chika (藤原 千花)",31.0,82,Medium,High,,9,75,Medium,No,0,Low,Medium,Private,Positive,4,No,Postgraduate,Near
+"Claes, Catarina (カタリナ・クラエス)",15.0,71,Low,Medium,Yes,7,59,Low,,2,High,High,Public,Positive,3,No,High School,Near
+"Kafuu, Chino (香風 智乃)",20.0,64,Medium,Medium,Yes,6,60,Medium,Yes,1,Low,Medium,Public,Positive,4,No,Postgraduate,Moderate
+"Oumae, Kumiko (黄前 久美子)",18.0,90,Medium,Medium,Yes,5,80,High,Yes,2,Low,Medium,Public,Neutral,3,No,High School,Near
+"Kitahara, Iori (北原 伊織)",11.0,100,Medium,Medium,No,7,63,Medium,Yes,1,Low,Medium,Public,Positive,3,No,High School,Far
+"Nakano, Azusa (中野 梓)",11.0,94,High,High,Yes,6,53,Medium,Yes,2,Low,High,Public,Negative,5,No,College,Moderate
+"Nakahara, Chuuya (中原 中也)",16.0,96,Medium,Medium,Yes,7,96,Low,,0,Medium,Medium,Public,Positive,4,No,High School,Near
+"Ryuuguu, Rena (竜宮 レナ)",20.0,83,Medium,High,,7,59,High,Yes,1,Medium,High,Public,Positive,4,No,College,Near
+"Ichinose, Guren (一瀬 グレン)",9.0,97,Medium,Medium,Yes,8,66,Low,Yes,1,Low,Medium,Private,,2,No,Postgraduate,Moderate
+Gin (ギン),16.0,86,Medium,Medium,Yes,7,89,Medium,Yes,1,Medium,Medium,Private,Neutral,5,No,High School,Far
+"Kuriyama, Mirai (栗山 未来)",18.0,95,Medium,High,Yes,7,60,Low,No,2,Low,Medium,Public,Neutral,3,No,College,Near
+"Kotatsu, Tamaki (環 古達)",20.0,75,High,Low,,9,56,Low,Yes,1,,High,Public,Neutral,4,No,High School,Moderate
+Konjiki no Yami (金色の闇),21.0,73,Medium,Medium,Yes,7,67,Low,,3,High,High,Public,Positive,3,No,College,Near
+"Shiina, Mashiro (椎名 ましろ)",26.0,78,High,Low,Yes,7,92,High,Yes,3,,High,Public,Positive,4,No,High School,Near
+"Toogata, Mirio (通形 ミリオ)",30.0,68,Medium,High,No,4,50,Low,Yes,1,Medium,Medium,Public,Positive,3,No,College,Near
+"Kawamoto, Hinata (川本 ひなた)",22.0,75,Medium,Medium,No,8,82,Medium,Yes,2,Medium,High,Public,Neutral,1,No,High School,Moderate
+"Gojou, Satoru (五条 悟)",35.0,81,High,Medium,,7,72,Medium,,3,High,Medium,Public,Positive,4,No,Postgraduate,Moderate
+Accelerator (一方通行 〈アクセラレータ〉),21.0,90,Medium,Medium,,6,89,Low,Yes,1,Medium,Medium,Public,Neutral,2,No,College,Near
+"Natsume, Takashi (夏目貴志)",24.0,86,Medium,High,,9,75,Medium,No,1,Low,Medium,Public,Neutral,3,No,Postgraduate,Near
+"Kagami, Taiga (火神 大我)",12.0,91,Low,Medium,Yes,9,66,Medium,Yes,1,High,Medium,Private,Neutral,2,No,High School,Moderate
+Rider (ライダー),26.0,82,High,Medium,No,7,95,Low,Yes,2,Low,Medium,Private,Neutral,2,Yes,Postgraduate,Moderate
+"Ueno, Naoka (植野 直花)",16.0,61,Medium,Medium,Yes,7,98,Low,Yes,1,High,Medium,Public,Neutral,4,No,College,Far
+"Ayase, Chihaya (綾瀬 千早)",21.0,83,Low,Medium,No,7,83,Low,Yes,2,High,High,Public,Positive,1,No,High School,Near
+Echidna (エキドナ),20.0,85,Medium,High,No,7,65,Low,Yes,2,Medium,Medium,Public,Neutral,5,No,High School,Near
+"Shinmon, Benimaru (紅丸 新門)",7.0,94,High,High,Yes,7,81,Low,Yes,1,High,Medium,Private,Negative,3,No,College,Near
+Pikachu (ピカチュウ),22.0,65,Medium,Low,,7,55,Medium,Yes,2,Medium,Low,Private,Neutral,4,No,High School,Moderate
+Power (パワー),30.0,86,High,Medium,No,8,91,Medium,Yes,2,Medium,Medium,Public,,3,No,College,Near
+"Ryuuguuji, Ken (龍宮寺 堅)",22.0,65,Medium,Medium,,6,99,High,Yes,2,High,High,Private,Positive,2,No,Postgraduate,Moderate
+Tatsu (龍),12.0,81,High,Medium,Yes,7,55,High,Yes,0,Low,High,Public,Neutral,3,No,College,Moderate
+"Yamaguchi, Tadashi (山口 忠)",16.0,67,Medium,Medium,No,7,63,Low,Yes,2,Low,Medium,Public,Positive,4,No,High School,Moderate
+Shanks (シャンクス),24.0,95,Low,Medium,Yes,6,74,Medium,Yes,0,Low,Medium,Private,Neutral,2,No,College,Moderate
+Crona (クロナ),18.0,94,Medium,High,,7,63,Medium,Yes,0,,Medium,Public,Negative,2,No,Postgraduate,Moderate
+"Sakata, Gintoki (坂田 銀時)",29.0,94,Low,Medium,,5,87,High,Yes,4,Low,High,Public,,5,No,Postgraduate,Near
+"Uchiha, Itachi (うちは イタチ)",23.0,98,High,Medium,Yes,8,73,Low,Yes,2,High,High,Public,Positive,4,No,College,Moderate
+"Toshinou, Kyouko (歳納 京子)",14.0,87,Medium,Low,Yes,5,61,Medium,Yes,5,Low,Medium,Public,Neutral,3,No,High School,Near
+"Mizunashi, Akari (水無 灯里)",16.0,84,High,Medium,,9,57,Low,No,2,Medium,High,Public,Neutral,3,No,College,Moderate
+"Kageyama, Tobio (影山 飛雄)",22.0,81,High,High,,6,96,Medium,,1,Medium,Medium,Public,,3,No,High School,Near
+Satou (佐藤),11.0,76,Low,High,,8,62,High,Yes,0,High,Medium,Public,Neutral,2,No,College,Near
+"Takimoto, Hifumi (滝本 ひふみ)",11.0,92,Low,Medium,No,7,79,Medium,Yes,0,Low,High,Public,Positive,5,No,High School,Near
+"Haruhara, Haruko (ハルハラ・ハル子)",19.0,87,High,Medium,No,8,96,Medium,Yes,1,Medium,Low,Private,Positive,4,No,High School,Far
+Eureka (エウレカ),15.0,72,Low,High,No,7,69,Medium,Yes,0,Medium,Medium,Public,Negative,2,No,Postgraduate,Moderate
+"Rokudou, Mukuro (六道 骸)",12.0,62,Medium,High,Yes,8,64,Medium,Yes,4,Medium,High,Public,Neutral,3,No,High School,Near
+Gilgamesh (ギルガメッシュ / アーチャー),20.0,94,Medium,High,Yes,9,59,Low,Yes,1,High,High,Private,Neutral,3,No,College,Moderate
+"Akashiya, Moka (赤夜 萌香)",18.0,73,Medium,High,Yes,4,98,Low,Yes,2,,High,Public,,3,Yes,High School,Far
+"Roronoa, Zoro (ロロノア・ゾロ)",26.0,97,High,High,Yes,8,74,Low,Yes,1,High,Medium,Public,Positive,4,No,Postgraduate,Near
+"Yagami, Kazuma (八神 和麻)",21.0,68,Medium,High,Yes,7,72,Low,No,1,Low,Medium,Public,Positive,4,No,High School,Near
+"Tokitou, Muichirou (時透 無一郎)",28.0,70,Medium,High,,6,83,Medium,Yes,0,Medium,Medium,Public,Neutral,2,No,College,Moderate
+Eugeo (ユージオ),22.0,60,High,Medium,No,7,89,Medium,Yes,2,,High,Private,Positive,3,No,High School,Near
+Greed (グリード),20.0,99,Medium,High,No,8,89,Medium,Yes,0,,Medium,Public,Negative,3,No,High School,Far
+Emma (エマ),26.0,81,Low,Medium,Yes,6,82,Low,Yes,3,,Medium,Private,Neutral,3,No,High School,Near
+Pen Pen (ペンペン),16.0,78,High,Low,Yes,7,67,Low,Yes,1,Low,Medium,Private,,2,No,College,Near
+"Donquixote, Rosinante (ドンキホーテ・ロシナンテ)",23.0,76,Low,High,No,6,90,Low,Yes,2,Low,Medium,Private,,3,No,High School,Far
+"Gokudera, Hayato (獄寺 隼人)",14.0,69,Medium,High,Yes,5,87,Low,No,2,Medium,High,Public,,3,No,Postgraduate,Moderate
+"Yamada, Ryou (山田 リョウ)",29.0,62,Medium,High,No,4,69,Medium,Yes,3,Medium,Medium,Public,Positive,3,No,High School,Near
+"Mitsuya, Takashi (三ツ谷 隆)",28.0,61,Medium,Low,Yes,6,76,Medium,Yes,0,Low,High,Public,Negative,3,No,High School,Near
+"Kiryuu, Zero (錐生 零)",18.0,93,High,Medium,,8,52,Medium,Yes,0,Medium,High,Public,Neutral,3,No,College,Near
+"Tomori, Nao (友利 奈緒)",,92,Medium,Medium,No,8,96,Medium,Yes,2,Low,Medium,Public,,3,No,College,Near
+"Uchiha, Obito (うちは オビト)",35.0,77,Low,High,Yes,7,67,Medium,Yes,0,Medium,Medium,Public,,1,No,Postgraduate,Moderate
+Hyakkimaru (百鬼丸),29.0,86,Low,High,No,7,87,Low,No,3,Medium,Medium,Private,Negative,4,No,High School,Moderate
+"Ludenberg, Celestia (セレスティア・ルーデンベルク)",21.0,60,Medium,High,,8,56,Medium,Yes,0,Medium,Medium,Public,Neutral,4,No,High School,Far
+Xin (信),23.0,77,High,Low,No,9,97,Medium,Yes,0,,High,Public,Neutral,3,No,High School,Moderate
+Tanaka (田中),14.0,70,Medium,High,,5,84,Medium,,4,Low,Medium,Private,Positive,2,No,College,Moderate
+"Shokuhou, Misaki (食蜂 操祈)",19.0,60,Medium,Medium,No,8,72,Medium,Yes,0,Low,Medium,Public,Positive,3,Yes,Postgraduate,Near
+"Kusanagi, Motoko (草薙 素子)",32.0,78,High,Medium,No,5,77,Medium,Yes,1,Low,Medium,Public,Negative,3,No,High School,Near
+"Hiroi, Kikuri (廣井 きくり)",12.0,67,High,Medium,No,8,74,Low,Yes,1,Low,Medium,Public,Negative,3,No,College,Near
+"Chidori, Kaname (千鳥 かなめ)",23.0,80,Low,Low,Yes,6,77,Low,Yes,3,Medium,Medium,Public,Neutral,2,No,High School,Moderate
+Kaonashi (カオナシ),14.0,73,High,Medium,Yes,7,55,High,No,1,Low,Medium,Public,Negative,5,Yes,High School,Moderate
+"Yonsa, Balsa (バルサ)",12.0,85,Medium,Low,No,4,78,Medium,Yes,1,Medium,Medium,Private,,4,No,College,Moderate
+"Kamui, Kanna (カンナ・カムイ)",19.0,96,Medium,Medium,Yes,9,60,Medium,Yes,2,Low,Medium,Private,Neutral,3,No,Postgraduate,Moderate
+Yuno (ユノ),17.0,66,Medium,High,No,7,55,High,,1,Medium,Medium,Public,Positive,3,No,Postgraduate,Near
+"Shimura, Shinpachi (志村 新八)",15.0,71,Medium,Low,No,5,74,Medium,No,3,,Medium,Private,Negative,2,No,High School,Near
+Calcifer (カルシファー),20.0,77,Medium,Medium,Yes,8,50,High,No,0,Low,High,Public,Negative,2,No,High School,Near
+"Aznable, Char (シャア・アズナブル)",8.0,88,Medium,Medium,Yes,7,94,Medium,Yes,1,High,High,Public,Positive,4,No,Postgraduate,Near
+"Usami, Akihiko (宇佐見 秋彦)",12.0,64,High,Low,No,5,74,Medium,Yes,2,Low,High,Public,Positive,3,No,High School,Moderate
+"Tsukiyomi, Ikuto (月詠 幾斗)",13.0,91,Low,Medium,No,8,95,Medium,,1,High,Medium,Public,Positive,3,Yes,College,Near
+"Sonozaki, Mion (園崎 魅音)",6.0,88,Medium,Medium,No,7,77,Low,Yes,1,High,Medium,Public,Positive,2,No,College,Near
+"Uzui, Tengen (宇髄 天元)",19.0,85,Medium,High,Yes,7,62,Medium,No,0,High,Medium,Public,Positive,3,No,College,Near
+Mine (マイン),24.0,64,Medium,High,Yes,6,87,Low,No,1,Medium,Medium,Public,Positive,4,No,Postgraduate,Near
+Chii (ちぃ),21.0,73,High,Low,Yes,7,90,Medium,Yes,1,High,Low,Public,Positive,5,No,High School,Near
+"Fujioka, Haruhi (藤岡 ハルヒ)",20.0,89,Medium,High,No,7,64,Medium,Yes,3,Medium,Medium,Private,Negative,5,No,College,Far
+"Monkey D., Luffy (モンキー・D・ルフィ)",20.0,89,Medium,Medium,,8,71,Medium,Yes,2,Medium,High,Private,Positive,2,No,High School,Moderate
+"Edward, Newgate (エドワード・ニューゲート)",15.0,79,Medium,Medium,,7,86,High,,2,Low,High,Public,Neutral,4,No,College,Near
+"Lupin III, Arsene (ルパン三世)",23.0,77,Medium,Medium,Yes,7,62,Medium,Yes,2,Medium,High,Public,,1,No,High School,Moderate
+"Misaka, Mikoto (御坂 美琴)",26.0,85,High,Medium,Yes,6,86,Medium,Yes,1,High,Low,Private,Neutral,3,No,College,Near
+"Shiraishi, Urara (白石 うらら)",21.0,61,High,Medium,,9,67,Medium,Yes,1,High,Medium,Public,Neutral,3,No,College,Near
+"Hua, Cheng (花 城)",21.0,83,Medium,Low,,5,66,High,Yes,3,,Medium,Private,Neutral,3,No,High School,Moderate
+"Takarada, Rikka (宝多 六花)",17.0,66,Medium,Medium,Yes,6,59,High,Yes,0,High,Medium,Public,Positive,5,No,Postgraduate,Near
+"Bachira, Meguru (蜂楽 廻)",23.0,82,Medium,Medium,Yes,6,65,Medium,Yes,1,,Medium,Public,Negative,3,No,College,Moderate
+Totoro (トトロ),9.0,87,High,Medium,Yes,9,57,Medium,Yes,0,,High,Public,Neutral,4,No,High School,Near
+"Miyamoto, Musashi (宮本 武蔵)",20.0,98,Medium,High,No,10,83,Medium,Yes,0,Medium,Medium,Public,,3,No,College,Moderate
+"Tachibana, Makoto (橘 真琴)",23.0,63,Medium,High,No,7,99,Medium,Yes,1,Medium,Medium,Public,Positive,3,No,College,Near
+"Kirisu, Mafuyu (桐須 真冬)",19.0,61,Medium,High,,8,57,Medium,Yes,0,Low,Medium,Private,Negative,4,No,High School,Moderate
+"Toujou, Koneko (塔城 小猫)",18.0,73,High,High,No,9,95,Low,Yes,3,Medium,Medium,Public,Neutral,2,No,High School,Near
+"Uryuu, Minene (雨流 みねね)",25.0,84,Medium,Low,No,6,71,Medium,Yes,1,Medium,Medium,Public,Neutral,5,No,High School,Moderate
+"Okazaki, Shinichi (岡崎 真一)",18.0,74,High,Medium,Yes,7,93,Low,No,1,Medium,Medium,Private,Positive,1,No,Postgraduate,Near
+"Trancy, Alois (アロイス・トランシー)",17.0,65,Medium,High,No,8,92,Medium,Yes,0,,Medium,Public,Positive,3,No,College,Moderate
+Gabimaru (画眉丸),16.0,75,Medium,Medium,Yes,6,73,Medium,No,1,Medium,Medium,Private,Positive,5,No,High School,Moderate
+"Kida, Masaomi (紀田正臣)",13.0,64,High,High,No,7,92,Medium,Yes,1,High,Medium,Public,Positive,4,Yes,High School,Near
+"Forger, Yor (ヨル・フォージャー)",28.0,75,Low,High,Yes,8,97,Medium,Yes,2,Low,High,Private,Neutral,3,No,Postgraduate,Moderate
+Norman (ノーマン),17.0,92,Low,Medium,No,8,100,Medium,Yes,1,Medium,Medium,Private,Neutral,3,No,College,Near
+"Kotomine, Kirei (言峰 綺礼)",25.0,71,Medium,Medium,,6,91,High,Yes,1,Low,Medium,Public,Positive,4,No,College,Near
+"Kasumigaoka, Utaha (霞ヶ丘 詩羽)",28.0,65,Medium,High,,10,87,Medium,Yes,2,Medium,Medium,Public,Neutral,2,No,High School,Near
+Himeno (姫野),17.0,64,High,Medium,Yes,9,80,High,No,2,,Medium,Public,Negative,3,No,College,Moderate
+Yamato (ヤマト),,84,Medium,Low,,6,80,High,Yes,1,Medium,High,Public,Positive,2,No,College,Moderate
+Garou (ガロウ),17.0,86,High,High,Yes,7,51,Medium,Yes,2,Medium,Low,Public,Neutral,3,No,Postgraduate,Near
+Zeref (ゼレフ),16.0,66,High,Medium,Yes,8,63,Medium,Yes,1,Medium,Medium,Private,Negative,3,No,Postgraduate,Moderate
+Isla (アイラ),23.0,75,Medium,High,,6,81,Medium,,0,Low,Medium,Public,Neutral,4,No,Postgraduate,Near
+Jibril (ジブリール),23.0,85,Low,High,Yes,10,54,Low,Yes,1,,Medium,Public,Positive,4,No,High School,Near
+Suigintou (水銀燈),20.0,80,Low,Low,Yes,8,53,High,Yes,1,,High,Public,Positive,2,No,High School,Near
+Siesta (シエスタ),15.0,68,Medium,Medium,Yes,7,85,Low,Yes,1,High,High,Public,Neutral,5,No,High School,Near
+"Kanamori, Sayaka (金森 さやか)",23.0,64,Medium,Low,Yes,7,51,Medium,,0,,Medium,Private,Positive,3,No,Postgraduate,Near
+"Dian, Isaac (アイザック・ディアン)",,85,Low,High,Yes,6,74,Low,Yes,0,Low,Medium,Public,Neutral,4,No,High School,Near
+"Shiba, Miyuki (司波 深雪)",20.0,81,Low,Low,Yes,8,52,Medium,Yes,1,Medium,Medium,Public,Neutral,3,No,Postgraduate,Near
+"Tsuruga, Ren (敦賀 蓮 / 久遠 ヒズり)",6.0,65,Low,High,,8,59,Low,No,1,Medium,High,Private,Positive,3,No,College,Moderate
+"Senjougahara, Hitagi (戦場ヶ原 ひたぎ)",28.0,94,Medium,Medium,,6,65,High,Yes,3,Low,Medium,Private,Neutral,4,No,Postgraduate,Near
+"Gokou, Ruri (五更 瑠璃)",21.0,82,High,High,No,10,67,Medium,Yes,2,Low,Medium,Public,Neutral,2,No,High School,Near
+"Gremory, Rias (リアス・グレモリー)",25.0,87,High,Medium,No,6,91,Medium,Yes,0,High,High,Public,,3,No,Postgraduate,Moderate
+Shin (心),27.0,60,Medium,Low,No,5,60,Low,Yes,1,Low,Medium,Private,,3,No,High School,Near
+"Zuberg, Alice (アリス・ツーベルク)",30.0,70,High,Medium,No,8,64,Low,Yes,2,Low,Medium,Public,Neutral,1,Yes,Postgraduate,Far
+"Shima, Rin (志摩 リン)",17.0,91,Low,Medium,No,9,97,Low,Yes,3,Medium,High,Public,Positive,4,No,College,Moderate
+Reki (礫),16.0,81,Low,High,,7,76,Low,,1,Medium,Medium,Private,,3,No,High School,Near
+"Miyamizu, Mitsuha (宮水 三葉)",21.0,66,High,High,Yes,8,99,Medium,Yes,3,,Medium,Private,Neutral,1,No,Postgraduate,Near
+"Jabami, Yumeko (蛇喰 夢子)",19.0,97,Medium,Medium,Yes,6,92,Medium,No,1,High,Medium,Public,Neutral,3,No,Postgraduate,Moderate
+"Valentine, Funny (ファニー・ヴァレンタイン)",25.0,82,Low,Low,Yes,5,65,Medium,Yes,2,Medium,Medium,Public,Neutral,3,No,Postgraduate,Near
+"Honda, Hanako (本田 華子)",15.0,79,Low,Medium,,7,69,Low,Yes,0,Low,Medium,Public,Negative,1,No,High School,Moderate
+"Toujou, Nozomi (東條 希)",21.0,77,Medium,Low,,5,81,Low,Yes,1,,Medium,Private,Neutral,1,No,High School,Moderate
+"Kurokawa, Akane (黒川 あかね)",19.0,84,Low,Low,No,8,89,Low,Yes,2,,Low,Public,Neutral,4,No,College,Near
+"Inumaki, Toge (狗巻 棘)",31.0,76,High,Medium,Yes,7,57,High,Yes,2,,Low,Private,Neutral,3,No,College,Moderate
+"Fuwa, Aika (不破 愛花)",18.0,70,Medium,Medium,No,6,97,Medium,,1,Medium,Medium,Public,Neutral,3,No,High School,Moderate
+"Kozume, Kenma (孤爪 研磨)",20.0,99,Medium,High,Yes,8,61,Medium,Yes,0,Low,Low,Private,Neutral,4,No,College,Near
+"Higashiyama, Kobeni (東山 コベニ)",24.0,92,Low,Medium,Yes,8,67,Low,Yes,0,Low,Medium,Public,Positive,3,No,High School,Near
+"Ye, Xiu (叶 修)",24.0,62,Low,Medium,No,7,89,High,Yes,0,Medium,Medium,Private,Neutral,3,No,High School,Moderate
+"Handa, Sei (半田 清舟)",24.0,64,Medium,Medium,No,6,83,Medium,Yes,1,Low,Medium,Public,,3,No,College,Near
+"Koizumi, Risa (小泉リサ)",10.0,74,High,High,Yes,6,57,High,,1,,High,Public,Neutral,5,No,Postgraduate,Moderate
+Fushi (不死 (フシ)),17.0,81,Medium,High,No,8,80,Medium,Yes,1,High,Medium,Private,Negative,5,No,College,Moderate
+Ashitaka (アシタカ),19.0,62,Medium,Medium,No,7,57,Medium,Yes,3,Medium,Low,Private,Neutral,1,No,College,Near
+"Takasu, Ryuuji (高須 竜児)",10.0,99,Medium,Medium,No,7,92,Low,Yes,1,,High,Private,Neutral,3,No,Postgraduate,Moderate
+"de Blois, Victorique (ヴィクトリカ・ド・ブロワ)",10.0,88,High,Medium,Yes,8,90,Medium,,3,Low,Medium,Public,Neutral,3,No,High School,Near
+"Miya, Atsumu (宮 侑)",20.0,64,High,Medium,Yes,7,68,High,,1,Low,Medium,Public,Negative,2,Yes,High School,Moderate
+"Mayer, Re-l (リル・メイヤー)",20.0,94,Medium,Medium,,8,68,Medium,No,1,Low,High,Public,Positive,4,No,College,Moderate
+"Nouzen, Shinei (シンエイ・ノウゼン)",22.0,74,High,Medium,Yes,8,96,Medium,Yes,4,High,Low,Private,Negative,3,No,High School,Near
+"Miyauchi, Renge (宮内 れんげ)",17.0,88,High,Medium,Yes,6,86,High,No,1,Medium,High,Private,Positive,2,No,High School,Near
+"Midorikawa, Hana (緑川 花)",19.0,71,Medium,Medium,Yes,7,65,High,Yes,2,High,Medium,Public,Positive,2,No,College,Near
+"Edogawa, Ranpo (江戸川 乱歩)",17.0,89,Medium,High,Yes,7,73,Medium,Yes,2,,Medium,Public,Positive,3,No,High School,Near
+Inuyasha (犬夜叉),19.0,90,Medium,High,,7,81,Medium,No,2,Low,Medium,Public,Neutral,4,No,College,Near
+"Kuchiki, Byakuya (朽木 白哉)",16.0,92,Medium,High,Yes,8,92,Low,Yes,1,High,Medium,Public,Neutral,2,No,High School,Near
+"Sagara, Sousuke (相良 宗介)",16.0,79,High,High,,7,51,Medium,Yes,2,Low,Medium,Public,Positive,3,No,Postgraduate,Near
+"Uchiha, Shisui (うちは シスイ)",23.0,62,Medium,Medium,Yes,7,54,Medium,Yes,0,Medium,Medium,Private,Negative,3,No,High School,Moderate
+"Flourite, Fai D. (ファイ・D・フローライト)",30.0,61,Medium,High,Yes,7,59,Medium,No,2,Low,Medium,Public,Neutral,4,No,College,Moderate
+"Ayanokouji, Kiyotaka (綾小路 清隆)",27.0,85,High,Medium,Yes,6,90,Low,No,4,Medium,High,Public,Positive,3,No,College,Near
+"Hellscythe, Eucliwood (ユークリウッド・ヘルサイズ)",11.0,95,Medium,Medium,Yes,9,57,Medium,Yes,1,Low,High,Public,Negative,2,Yes,Postgraduate,Moderate
+"Inoue, Orihime (井上 織姫)",14.0,84,Medium,Medium,,8,82,Medium,,2,Low,Medium,Private,Neutral,3,No,College,Near
+"Might, Guy (マイト・ガイ)",24.0,68,Low,Low,No,9,55,Medium,Yes,2,Medium,Medium,Private,Neutral,2,No,Postgraduate,Near
+Legoshi (レゴシ),22.0,89,Low,High,Yes,6,83,Low,Yes,1,Medium,High,Public,Neutral,3,No,High School,Near
+"Saiki, Kusuo (斉木 楠雄)",21.0,90,High,Medium,Yes,5,67,Medium,,4,Medium,Medium,Public,Neutral,3,No,Postgraduate,Near
+"Kaname, Madoka (鹿目 まどか)",24.0,83,Medium,High,No,7,77,Low,Yes,1,Medium,High,Private,Neutral,3,No,High School,Near
+Filo (フィーロ),19.0,62,Low,Low,Yes,9,50,High,Yes,1,Low,Medium,Public,Negative,3,No,High School,Near
+"Reigen, Arataka (霊幻 新隆)",26.0,99,High,Medium,Yes,7,86,Medium,Yes,1,,High,Public,,2,No,College,Near
+"Hoshino, Aquamarine (星野 愛久愛海)",21.0,78,Low,High,Yes,8,72,High,Yes,0,Low,High,Public,Positive,4,No,Postgraduate,Near
+"Ghirga, Narancia (ナランチャ・ギルガ)",16.0,74,Low,Medium,,8,70,Low,Yes,2,Low,Medium,Public,Positive,4,No,Postgraduate,Near
+"Nagi, Seishirou (凪 誠士郎)",27.0,69,Medium,Medium,,7,57,High,Yes,2,High,Medium,Private,Neutral,4,Yes,College,Moderate
+Yoshino (四糸乃),21.0,68,Medium,Medium,No,5,51,Medium,Yes,0,Low,High,Private,Negative,4,No,Postgraduate,Near
+Decim (デキム),18.0,96,High,Medium,No,8,86,Medium,Yes,0,Low,Medium,Public,,3,No,High School,Moderate
+"Ichihara, Yuuko (壱原侑子)",,90,Low,Low,No,9,72,Medium,Yes,0,Low,Medium,Public,Neutral,3,No,College,Near
+"Koga, Tomoe (古賀 朋絵)",25.0,79,High,Low,No,4,52,Medium,Yes,2,Low,Medium,Public,Positive,4,No,High School,Near
+"Akabane, Karma (赤羽 業)",21.0,90,High,Medium,,7,58,Medium,,3,Medium,Medium,Public,Positive,4,No,Postgraduate,Near
+Dante (ダンテ),16.0,92,Medium,High,No,8,94,Low,Yes,1,,High,Public,Neutral,3,No,High School,Moderate
+"Kazami, Yuuji (風見 雄二)",25.0,61,Medium,High,Yes,7,83,High,No,0,Medium,Medium,Private,Positive,4,No,Postgraduate,Near
+"Kurono, Kei (玄野 計)",21.0,80,Low,Medium,Yes,5,89,Low,,2,Low,Medium,Public,,3,No,High School,Near
+"Lockser, Juvia (ジュビア・ロクサー)",20.0,72,Medium,High,Yes,7,78,High,,4,Low,Medium,Public,,2,No,High School,Near
+"Kagari, Atsuko (アツコ・カガリ)",24.0,76,Medium,Low,Yes,5,91,Low,Yes,3,Medium,High,Private,Neutral,2,Yes,Postgraduate,Near
+Nine (ナイン（九重 新）),15.0,79,Medium,High,No,7,67,Low,Yes,2,Low,Medium,Private,Positive,4,No,College,Near
+Goblin Slayer (ゴブリンスレイヤー),14.0,99,Medium,Low,Yes,8,85,Low,Yes,2,Low,Medium,Public,,3,No,High School,Far
+"Nanami, Mami (七海 麻美)",24.0,94,Medium,Medium,,7,96,Medium,No,1,Low,Medium,Public,Positive,4,No,College,Moderate
+Casca (キャスカ),20.0,79,Medium,High,,6,54,Medium,No,1,,Medium,Public,Neutral,3,No,Postgraduate,Near
+Deidara (デイダラ),22.0,74,High,High,No,7,85,Low,Yes,3,Low,Low,Public,Positive,3,No,High School,Moderate
+"Yamada Asaemon, Sagiri (山田浅ェ門 佐切)",,72,Medium,High,Yes,10,60,Medium,Yes,1,Medium,High,Public,Positive,4,No,High School,Far
+"Kurose, Maria (黒瀬 海愛)",21.0,62,Low,High,,7,62,High,Yes,1,Medium,High,Public,Negative,4,Yes,High School,Near
+"Izumi, Konata (泉こなた)",28.0,90,Low,Medium,No,7,85,High,Yes,0,Medium,Medium,Public,Positive,4,No,College,Moderate
+"Lenz, Krista (クリスタ・レンズ)",23.0,60,High,Medium,No,9,51,Medium,Yes,2,Low,Medium,Public,Neutral,4,No,Postgraduate,Near
+"Scarlet, Erza (エルザ・スカーレット)",22.0,96,High,Medium,,5,60,Medium,Yes,2,High,Medium,Public,Positive,3,No,College,Far
+"Sturluson, Celty (セルティ・ストゥルルソン)",23.0,97,Medium,Medium,No,10,69,Low,Yes,1,Low,Medium,Public,Negative,4,No,High School,Near
+"Shirasaki, Kaori (白崎 香織)",13.0,66,High,Medium,Yes,7,65,Medium,Yes,4,High,Medium,Public,Positive,4,No,College,Near
+"Bloodfallen, Shalltear (シャルティア・ブラッドフォールン)",13.0,81,High,Medium,,7,75,Medium,Yes,1,Low,Low,Public,Positive,2,No,High School,Near
+"Kukumila, Kurena (クレナ・ククミラ)",28.0,78,Medium,Medium,,8,93,High,Yes,1,Medium,Medium,Public,Positive,4,No,Postgraduate,Moderate
+Asta (アスタ),20.0,88,High,High,Yes,7,79,Medium,No,2,Low,High,Public,Positive,3,No,College,Near
+"Hekmatyar, Koko (ココ・ヘクマティアル)",23.0,71,Low,Medium,Yes,6,69,Medium,Yes,1,Medium,Medium,Private,Neutral,4,No,College,Near
+"Kugisaki, Nobara (釘崎 野薔薇)",25.0,98,High,Medium,No,7,93,Low,Yes,0,,High,Private,,2,Yes,High School,Moderate
+"Yamato, Kira (キラ・ヤマト)",19.0,64,High,Medium,Yes,8,57,Medium,No,0,Medium,High,Public,Neutral,3,No,College,Moderate
+"Nandaba, Naota (ナンダバ・ナオ太)",18.0,70,Medium,Low,,8,81,High,Yes,1,Medium,Medium,Public,Neutral,2,No,College,Moderate
+YoRHa 2-gou B-gata (ヨルハ2号B型),18.0,70,Medium,High,Yes,6,59,Medium,No,2,Medium,Medium,Private,,3,No,College,Near
+"Kuchiki, Rukia (朽木 ルキア)",24.0,80,Medium,High,No,6,72,High,Yes,1,Medium,Medium,Public,Positive,3,No,Postgraduate,Near
+"Kyouraku, Jirou Souzousuke Shunsui (京楽 次郎 総蔵佐 春水)",18.0,70,Medium,High,Yes,6,95,Medium,No,2,,Medium,Public,,3,No,College,Far
+"Kira, Yoshikage (吉良 吉影)",22.0,94,Medium,High,,7,66,Low,Yes,2,Medium,Medium,Public,,4,No,High School,Moderate
+"Keehl, Mihael (ミハエル・ケール)",12.0,86,High,Medium,No,6,65,Medium,Yes,0,Medium,Medium,Public,Positive,4,No,High School,Near
+"Kakyouin, Noriaki (花京院 典明)",24.0,79,High,High,Yes,5,62,Low,Yes,0,Low,High,Public,,3,No,College,Moderate
+Elaina (イレイナ),20.0,84,High,High,No,6,62,High,Yes,2,Medium,Medium,Private,Positive,2,No,Postgraduate,Moderate
+Bishamon (毘沙門),12.0,84,Medium,Low,Yes,9,76,Medium,Yes,1,Medium,Medium,Private,,2,No,Postgraduate,Moderate
+"Toudou, Aoi (東堂 葵)",18.0,84,Low,High,,9,71,Medium,Yes,2,,High,Public,Neutral,3,No,High School,Near
+"Sakura, Kyouko (佐倉 杏子)",20.0,93,Low,Medium,Yes,9,79,Medium,Yes,0,Medium,Medium,Private,Neutral,4,No,College,Moderate
+"Hiratsuka, Shizuka (平塚 静)",18.0,78,Medium,Medium,,7,88,Low,Yes,0,Low,High,Private,,2,No,High School,Moderate
+"Yao, Ling (リン・ヤオ)",24.0,75,Medium,Medium,Yes,7,60,Medium,Yes,1,Low,High,Public,Positive,3,No,Postgraduate,Moderate
+"Yasuri, Shichika (鑢 七花)",22.0,67,Medium,Medium,Yes,7,83,Medium,,2,,Medium,Public,Positive,2,No,College,Near
+The Count of Monte Cristo (モンテ・クリスト伯爵),14.0,69,Medium,Medium,,6,54,Medium,Yes,3,Medium,Medium,Public,,2,Yes,High School,Moderate
+Kurama (蔵馬),28.0,63,Medium,High,Yes,6,97,Medium,Yes,1,Low,Medium,Private,Neutral,4,No,High School,Near
+Neferpitou (ネフェルピトー ),30.0,66,Medium,High,,8,64,Medium,Yes,3,Low,Medium,Public,Negative,3,No,High School,Moderate
+Nikaidou (二階堂),14.0,70,High,Medium,,7,55,Low,,2,Low,Medium,Private,Neutral,3,No,Postgraduate,Moderate
+"Tenjou, Utena (天上 ウテナ)",14.0,81,Medium,Medium,Yes,7,98,High,Yes,2,Low,Medium,Public,Positive,4,Yes,College,Near
+"Mishima, Hitomi (三嶋 瞳)",20.0,74,Medium,Medium,,7,63,Medium,Yes,1,Low,Medium,Public,Negative,3,No,High School,Far
+Black★Rock Shooter (ブラック★ロックシューター),22.0,65,Medium,Medium,No,8,98,Medium,Yes,2,Low,Medium,Private,Positive,2,No,High School,Moderate
+"Kashiwazaki, Sena (柏崎 星奈)",7.0,90,Medium,Medium,,8,85,Medium,Yes,1,Medium,Medium,Private,Positive,3,No,Postgraduate,Moderate
+"Hatsune, Miku (初音 ミク)",34.0,74,Low,High,No,7,76,High,Yes,0,Low,Medium,Private,Negative,4,Yes,College,Moderate
+"Watanuki, Kimihiro (四月一日 君尋)",15.0,72,Low,High,Yes,6,99,Low,Yes,0,Low,Low,Public,Positive,4,No,Postgraduate,Near
+"Yamada, Anna (山田 杏奈)",16.0,65,High,High,No,6,79,Medium,,3,,High,Public,Neutral,3,No,High School,Near
+"Heiwajima, Shizuo (平和島 静雄)",19.0,98,Medium,High,,8,83,Medium,No,4,,Medium,Public,Negative,3,No,Postgraduate,Moderate
+"Dustiness Ford, Lalatina (ダスティネス・フォード・ララティーナ / ダクネス)",22.0,89,Medium,Medium,,7,54,Low,Yes,4,Medium,Medium,Public,Neutral,3,No,High School,Near
+"Akai, Shuuichi (赤井 秀一)",13.0,65,High,Low,,4,88,Low,Yes,0,,Medium,Private,Positive,4,No,College,Moderate
+"Arima, Kana (有馬 かな)",19.0,98,Medium,High,No,6,78,Medium,Yes,2,,High,Public,Neutral,3,No,High School,Near
+"Kaiba, Seto (海馬 瀬人)",25.0,66,High,High,,7,84,Medium,No,0,Medium,Medium,Public,Negative,3,No,College,Moderate
+"Hasegawa, Taizou (長谷川 泰三)",20.0,89,Low,Medium,Yes,9,53,Medium,Yes,2,Medium,High,Public,Negative,3,Yes,High School,Near
+"Hanekawa, Tsubasa (羽川 翼)",17.0,89,Medium,High,Yes,6,88,Medium,Yes,1,Medium,Medium,Public,,1,No,College,Near
+"Nakano, Miku (中野 三玖)",18.0,99,High,Medium,Yes,8,96,Low,Yes,0,Medium,Medium,Public,Positive,3,No,College,Near
+"Sugawara, Koushi (菅原 孝支)",19.0,72,Medium,High,No,9,98,High,Yes,0,Low,High,Private,Positive,3,No,College,Near
+Levi (リヴァイ),14.0,63,Medium,High,Yes,7,50,Medium,No,2,Medium,Medium,Public,Positive,4,No,College,Moderate
+"Heartfilia, Lucy (ルーシィ・ハートフィリア)",21.0,94,Medium,Medium,Yes,8,84,Medium,Yes,0,Low,Medium,Private,Neutral,4,No,College,Moderate
+"Souma, Shigure (草摩 紫呉)",13.0,70,Low,High,,6,84,Medium,Yes,2,Low,Medium,Public,Neutral,3,No,High School,Moderate
+"Matou, Sakura (間桐 桜)",13.0,89,Medium,High,No,7,50,High,Yes,2,High,High,Public,Positive,4,No,Postgraduate,Near
+"Chouno, Hina (蝶野 雛)",12.0,99,Low,High,Yes,7,83,Low,No,1,Medium,Medium,Public,Positive,3,No,High School,Moderate
+"Katsura, Hinagiku (桂ヒナギク)",10.0,89,Medium,Low,Yes,5,74,High,Yes,1,Low,Medium,Private,Positive,3,No,College,Moderate
+"Braun, Reiner (ライナー・ブラウン)",24.0,94,Medium,Medium,Yes,8,78,Medium,No,0,,Medium,Public,Positive,3,No,High School,Moderate
+"Satou, Kazuma (佐藤 和真)",24.0,89,High,High,No,7,72,Medium,Yes,0,Low,Medium,Private,Neutral,4,No,Postgraduate,Near
+"Oshino, Shinobu (忍野 忍)",24.0,97,Medium,High,,6,83,Medium,No,1,Low,High,Public,Positive,5,No,Postgraduate,Near
+"Kanroji, Mitsuri (甘露寺 蜜璃)",18.0,92,Medium,Low,Yes,8,51,Medium,,1,,Medium,Public,Neutral,3,No,College,Near
+"Tsukishima, Kei (月島 蛍)",29.0,79,Low,Medium,Yes,7,71,Medium,,4,Low,High,Private,Neutral,1,No,Postgraduate,Moderate
+"Valentine, Faye (フェイ・バレンタイン)",19.0,91,High,High,Yes,7,65,Medium,Yes,1,Medium,High,Public,Neutral,3,No,High School,Moderate
+Migi (ミギー),20.0,88,Medium,Low,,7,57,Medium,Yes,3,Low,Medium,Private,Neutral,3,No,College,Moderate
+"Kirigiri, Kyouko (霧切 響子)",24.0,78,Medium,High,Yes,8,94,Medium,Yes,1,Low,Medium,Public,Neutral,1,No,High School,Near
+Koro-sensei (殺せんせー),,96,High,High,No,6,55,Medium,Yes,0,Medium,Medium,Public,Neutral,4,No,College,Near
+"Jin, Mo-Ri (진 모리)",22.0,62,Low,Medium,Yes,8,67,Low,Yes,2,,Medium,Public,Positive,3,No,High School,Near
+"Oda, Sakunosuke (織田 作之助)",17.0,65,Medium,High,Yes,7,83,Low,,1,Low,Medium,Public,Positive,3,No,High School,Near
+"Uzumaki, Boruto (うずまき ボルト)",25.0,61,Medium,Medium,Yes,7,82,Medium,Yes,0,,Low,Public,Negative,1,No,College,Moderate
+"Hiiragi, Kagami (柊かがみ)",14.0,99,Low,Medium,No,7,63,Low,Yes,3,Medium,High,Public,Negative,3,No,High School,Moderate
+"Kim, Dokja (김 독자)",12.0,78,Medium,Medium,No,6,93,Medium,Yes,0,,High,Public,Positive,2,No,High School,Near
+Twelve (ツエルブ（久見 冬二）),21.0,80,High,Medium,,9,54,Low,No,2,High,Medium,Public,Neutral,3,No,College,Near
+"Sawada, Tsunayoshi (沢田 綱吉)",24.0,79,High,Medium,,7,65,Medium,Yes,1,Low,High,Private,Positive,3,No,Postgraduate,Moderate
+"Freecss, Gon (ゴン＝フリークス)",21.0,95,Medium,Medium,Yes,6,85,Medium,Yes,3,Low,Medium,Public,Positive,2,No,High School,Near
+"Kuroko, Tetsuya (黒子 テツヤ)",23.0,94,Medium,Medium,No,9,53,Low,Yes,1,Medium,Medium,Public,Neutral,5,No,High School,Near
+"Shiba, Tatsuya (司波 達也)",28.0,70,Medium,Medium,Yes,7,81,Medium,Yes,3,,Medium,Private,Neutral,2,No,High School,Near
+"Iino, Miko (伊井野 ミコ)",23.0,95,Medium,Low,No,7,64,Medium,No,0,High,Medium,Public,Neutral,3,No,Postgraduate,Near
+"Son, Hak (ソン・ハク)",29.0,77,Medium,High,No,9,71,Low,Yes,4,Medium,Medium,Public,,2,No,High School,Moderate
+Escanor (エスカノール),25.0,74,Medium,High,Yes,8,97,Low,Yes,1,Low,High,Private,Positive,3,Yes,College,Near
+"Zoldyck, Illumi (イルミ＝ゾルディック)",16.0,63,High,Medium,No,8,82,High,Yes,2,Medium,Low,Public,Positive,3,Yes,High School,Near
+"Liebert, Johan (ヨハン・リーベルト)",26.0,94,High,Medium,No,9,63,Medium,Yes,1,Medium,Medium,Public,Neutral,4,No,Postgraduate,Near
+"Redfox, Gajeel (ガジル・レッドフォックス)",14.0,92,Medium,Low,Yes,8,65,Medium,Yes,0,,High,Public,Neutral,3,No,High School,Moderate
+"Finger, Pieck (ピーク・フィンガー)",25.0,65,Medium,High,Yes,6,65,Low,Yes,1,High,Medium,Public,Neutral,5,Yes,College,Near
+"Matoi, Ryuuko (纏 流子)",18.0,95,Low,High,No,9,89,Medium,,4,Medium,Medium,Private,,3,No,High School,Near
+Jiraiya (自来也),10.0,98,Low,Medium,Yes,9,80,High,,8,Low,Medium,Public,Positive,3,No,Postgraduate,Near
+"Gojou, Wakana (五条 新菜)",12.0,72,Medium,High,Yes,7,67,High,Yes,1,High,Medium,Public,Positive,4,No,High School,Moderate
+"Hiraga, Saito (平賀 才人)",16.0,78,Low,Medium,No,6,96,Low,Yes,2,Medium,Medium,Public,Neutral,3,No,High School,Moderate
+"Ononoki, Yotsugi (斧乃木 余接)",20.0,74,High,Medium,No,7,68,High,Yes,1,Low,Medium,Public,Neutral,2,No,High School,Near
+"Joestar, Jonathan (ジョナサン・ジョースター)",20.0,80,Low,Medium,Yes,5,64,Medium,Yes,2,High,High,Public,Neutral,3,No,High School,Near
+"Yasuraoka, Hanabi (安楽岡 花火)",12.0,84,Low,High,No,6,80,High,Yes,1,Medium,Medium,Public,Positive,1,No,High School,Far
+Esdeath (エスデス),19.0,94,Low,Low,Yes,8,97,Medium,,1,High,High,Public,Positive,3,No,High School,Near
+"Sawabe, Tsubaki (澤部 椿)",12.0,91,Low,High,Yes,10,90,Medium,Yes,2,Medium,Medium,Public,Neutral,1,No,High School,Near
+"Uzumaki, Naruto (うずまき ナルト)",32.0,98,High,Low,,6,56,Medium,Yes,0,,Medium,Public,Positive,2,No,High School,Near
+"Ryoumen, Sukuna (両面 宿儺)",32.0,70,Medium,High,Yes,10,56,Medium,Yes,1,Medium,High,Private,,5,No,Postgraduate,Moderate
+"Toosaka, Rin (遠坂 凛)",29.0,74,Medium,High,,6,81,Medium,Yes,3,High,Medium,Private,Neutral,5,No,Postgraduate,Near
+"Malandro, Michiko (ミチコ・マランドロ)",8.0,70,Medium,Medium,Yes,9,64,Medium,Yes,3,,Medium,Private,Neutral,2,No,Postgraduate,Moderate
+"Matsuoka, Rin (松岡 凛)",15.0,94,Low,High,,9,51,Medium,Yes,3,High,Medium,Public,Neutral,3,No,High School,Moderate
+Cadis Etrama Di Raizel (카디스 에트라마 디 라이제르 / カディス・エトラマ・デ・ライジェル),20.0,67,Medium,Low,Yes,6,67,Medium,No,4,,Medium,Private,Neutral,3,No,High School,Near
+"Mitaka, Asa (三鷹 アサ)",12.0,94,High,Low,No,8,67,Low,Yes,1,High,High,Public,Negative,3,No,High School,Near
+"Mashima, Taichi (真島 太一)",22.0,75,Low,Medium,Yes,7,65,Medium,,2,Low,Medium,Private,Positive,3,No,Postgraduate,Moderate
+Nero (黒ネロ),6.0,96,Low,Medium,,8,59,Low,,2,Low,Medium,Private,Neutral,2,No,High School,Moderate
+"Ouma, Shuu (桜満 集)",12.0,91,Low,Medium,Yes,6,69,Medium,Yes,0,Medium,Medium,Public,Neutral,5,No,Postgraduate,Far
+"Lee, Rock (ロック・リー)",14.0,96,Medium,High,,7,79,Medium,Yes,1,Low,Low,Public,Neutral,4,No,College,Near
+"Tabata, Hidenori (田畑 ヒデノリ)",14.0,69,Medium,High,No,10,91,Medium,Yes,2,High,Medium,Public,Negative,4,No,High School,Moderate
+"Souma, Hatsuharu (草摩 潑春)",24.0,64,Medium,Low,Yes,7,53,High,Yes,3,Medium,Medium,Public,Positive,2,No,High School,Near
+"Hyakuya, Mikaela (百夜 ミカエラ)",24.0,87,High,High,No,8,60,Low,Yes,0,Low,Low,Public,Neutral,2,No,Postgraduate,Near
+"Takanashi, Rikka (小鳥遊 六花)",22.0,96,Medium,Medium,No,8,84,High,Yes,1,High,High,Public,Neutral,3,No,High School,Moderate
+"Kougami, Shinya (狡噛 慎也)",19.0,73,High,Medium,No,8,98,Medium,Yes,4,Medium,Medium,Private,Positive,4,No,College,Near
+"Adagaki, Aki (安達垣 愛姫)",17.0,71,High,Medium,,5,89,Medium,Yes,2,Medium,Medium,Private,Neutral,3,No,College,Near
+"Koiwai, Yotsuba (小岩井 四葉)",24.0,79,High,Low,,7,70,Medium,Yes,1,Low,Medium,Public,Positive,3,No,College,Near
+Nyaruko (ニャル子),10.0,62,Medium,High,Yes,7,85,Low,,3,High,High,Public,,4,No,College,Moderate
+"Miketsukami, Soushi (御狐神双熾)",15.0,77,Medium,Low,Yes,7,58,Medium,Yes,2,Low,Medium,Private,Neutral,4,No,High School,Moderate
+"Voldigoad, Anos (アノス・ヴォルディゴード)",28.0,79,High,Medium,No,4,50,Low,Yes,1,Low,Medium,Public,Neutral,3,No,College,Near
+"Brando, Dio (ディオ・ブランドー)",19.0,97,Medium,Medium,Yes,8,66,Medium,Yes,3,High,Medium,Public,,2,Yes,College,Near
+"Fushiguro, Touji (伏黒 甚爾)",26.0,69,High,Medium,,7,90,Medium,Yes,1,Medium,Medium,Public,Positive,3,No,College,Moderate
+"Himura, Kenshin (緋村 剣心)",21.0,98,High,Medium,,10,83,Medium,Yes,2,Low,High,Public,,2,No,College,Far
+"Hawkeye, Riza (リザ・ホークアイ)",30.0,90,Low,Low,No,8,64,Low,Yes,1,,High,Public,Neutral,2,No,High School,Moderate
+"Rockbell, Winry (ウィンリィ・ロックベル)",15.0,86,Low,High,,6,90,Low,Yes,0,Medium,Medium,Private,Neutral,3,No,Postgraduate,Near
+"Komaeda, Nagito (狛枝 凪斗)",25.0,75,Medium,Medium,Yes,7,88,Medium,,2,Medium,Medium,Public,Negative,3,No,College,Near
+Haji (ハジ),21.0,67,Medium,Medium,No,8,81,Low,Yes,2,Medium,Medium,Private,Negative,3,No,High School,Moderate
+"Bradley, King (キング・ブラッドレイ)",14.0,82,Medium,High,,5,69,Medium,Yes,2,Low,Medium,Private,Negative,4,Yes,High School,Near
+Chousou (脹相),20.0,62,High,High,,10,54,Low,Yes,2,Medium,High,Public,Neutral,5,Yes,High School,Moderate
+"Kuujou, Jolyne (空条 徐倫)",15.0,97,Medium,High,Yes,8,62,Low,No,0,High,Medium,Public,Positive,4,No,College,Near
+"Yang, Wen-li (ヤン・ウェンリー)",16.0,83,Medium,Medium,Yes,5,96,High,,1,Low,Medium,Private,Positive,5,No,High School,Near
+"Aihara, Yuzu (藍原 柚子)",22.0,60,Medium,Low,Yes,7,82,Medium,Yes,2,Low,Low,Public,Negative,3,No,College,Near
+"Noda, Megumi (野田恵)",16.0,79,Medium,Low,,9,70,Medium,,4,Medium,Medium,Public,Positive,2,No,High School,Near
+"Tu Oderschvank, Nelliel (ネリエル・トゥ・オーデルシュヴァンク)",12.0,77,Medium,Low,Yes,8,95,High,Yes,1,,Medium,Private,Negative,3,No,High School,Far
+"Agatsuma, Zenitsu (我妻 善逸)",21.0,99,High,Low,,10,89,Low,Yes,1,Low,Low,Public,Positive,3,No,College,Moderate
+"Ichimaru, Gin (市丸 ギン)",25.0,74,High,Medium,Yes,9,57,Medium,,1,,Medium,Public,Neutral,3,No,College,Moderate
+Gally (ガリィ),14.0,67,High,Medium,No,7,66,High,,2,Medium,High,Public,Neutral,2,No,College,Moderate
+"Greyrat, Rudeus (ルーデウス・グレイラット)",13.0,94,Medium,Medium,Yes,7,97,High,Yes,1,Medium,High,Public,Negative,1,No,Postgraduate,Near
+"Itadori, Yuuji (虎杖 悠仁)",29.0,92,Medium,Medium,No,9,60,Low,Yes,0,Low,High,Public,Positive,2,No,High School,Near
+"Sakurazaka, Shiori (桜坂 詩織)",19.0,91,Medium,High,Yes,9,55,Medium,Yes,0,Low,Medium,Public,Negative,3,No,College,Moderate
+"Yuurakutei, Yakumo (八代目 有楽亭 八雲)",21.0,62,Medium,Medium,No,8,90,Low,Yes,1,Medium,Medium,Public,,2,No,High School,Near
+"Tadano, Hitohito (只野 仁人)",14.0,75,High,Medium,No,7,67,Medium,Yes,3,,Low,Public,Neutral,3,No,High School,Far
+"Azazel, Amelie (アザゼル・アメリ)",16.0,63,Medium,Medium,Yes,6,71,Low,Yes,2,High,Medium,Public,Neutral,2,No,High School,Near
+Noi (能井),17.0,64,Medium,High,No,9,86,Low,Yes,0,Medium,Medium,Private,Positive,3,No,College,Near
+"Sano, Manjirou (佐野 万次郎)",15.0,91,Medium,Low,No,8,98,Medium,Yes,5,Medium,Medium,Public,Positive,3,No,High School,Near
+"Mogami, Kyouko (最上 キョーコ)",14.0,87,Medium,Medium,No,7,71,High,Yes,2,High,Low,Public,Positive,3,No,College,Near
+Meruem (メルエム),30.0,98,Medium,Medium,No,9,63,Medium,No,0,High,Medium,Public,Positive,3,No,High School,Near
+Griffith (グリフィス),16.0,90,Low,High,Yes,5,94,Medium,Yes,4,,Medium,Public,Positive,3,No,College,Near
+"Morokuzu, Takehito (諸葛 岳人)",20.0,61,Medium,Medium,Yes,6,51,High,Yes,1,Medium,Medium,Public,Neutral,3,No,Postgraduate,Near
+"Sakamaki, Izayoi (逆廻 十六夜)",29.0,60,Medium,Medium,,7,93,Low,Yes,4,Low,Medium,Public,Positive,2,No,High School,Near
+"Urahara, Kisuke (浦原 喜助)",23.0,91,Medium,Medium,No,7,90,Medium,Yes,1,Low,Medium,Public,Positive,4,No,College,Near
+"Seiei, Setsuna F. (刹那・F・セイエイ)",26.0,74,Medium,Low,Yes,6,51,Medium,Yes,1,Low,Medium,Public,Negative,3,No,High School,Moderate
+Tomoe (巴衛),24.0,95,Medium,Low,Yes,8,67,High,Yes,0,Medium,Medium,Public,Positive,4,No,College,Near
+Senko (仙狐),19.0,72,Medium,Medium,Yes,8,72,High,,3,Low,Low,Public,Neutral,5,No,High School,Moderate
+Leone (レオーネ),15.0,68,High,Medium,No,6,73,Medium,Yes,2,,Medium,Public,Neutral,2,No,High School,Near
+"Harima, Kenji (播磨 拳児)",18.0,88,Medium,Medium,,7,88,Low,,1,Low,Medium,Public,,3,No,College,Near
+"Vermillion, Stella (ステラ・ヴァーミリオン)",16.0,78,Medium,High,Yes,7,83,Low,No,0,High,Low,Public,Positive,4,No,High School,Near
+"Todoroki, Shouto (轟 焦凍)",28.0,93,High,High,No,10,99,Low,Yes,0,Medium,Medium,Public,Neutral,3,No,College,Near
+"Zaraki, Kenpachi (更木 剣八)",25.0,92,Low,High,Yes,6,60,Low,Yes,2,Medium,Medium,Public,Neutral,4,No,Postgraduate,Moderate
+"Tomioka, Giyuu (冨岡 義勇)",12.0,98,Medium,Medium,Yes,8,92,Low,Yes,2,,Medium,Public,Positive,3,No,College,Moderate
+"Tachibana, Kanade (立華 かなで / 天使)",23.0,98,High,Low,Yes,7,62,High,Yes,1,Low,High,Public,,3,No,High School,Near
+"Edogawa, Conan (江戸川 コナン)",16.0,94,Medium,High,Yes,8,72,Medium,No,0,Medium,Medium,Public,Positive,3,No,College,Near
+"Nava, Milim (ミリム・ナーヴァ)",18.0,73,Medium,High,Yes,6,95,Medium,No,2,High,Medium,Public,Negative,4,No,College,Moderate
+"Charlotte, Katakuri (シャーロット・カタクリ)",15.0,87,Medium,High,Yes,6,93,Medium,,2,Medium,Medium,Public,Positive,4,No,College,Near
+"Mikoshiba, Mikoto (御子柴 実琴)",22.0,70,Medium,High,Yes,8,79,Low,Yes,3,Medium,Medium,Public,Negative,2,No,College,Moderate
+"Haibara, Ai (灰原 哀)",17.0,87,Medium,Medium,Yes,6,86,Low,Yes,1,Medium,Medium,Private,Negative,1,Yes,High School,Near
+"Araragi, Koyomi (阿良々木 暦)",29.0,86,Medium,High,Yes,7,94,Low,Yes,1,High,Medium,Private,Neutral,4,No,College,Near
+"Sonozaki, Shion (園崎 詩音)",18.0,69,Medium,High,Yes,5,74,Medium,,3,,Medium,Public,,2,No,Postgraduate,Far
+"Portor, Feitan (フェイタン＝ポートオ)",23.0,76,High,High,No,4,79,Medium,Yes,0,Medium,Medium,Public,,3,Yes,College,Moderate
+"Kousaka, Kirino (高坂 桐乃)",28.0,62,Medium,High,Yes,7,73,Low,Yes,3,,High,Private,Neutral,2,No,High School,Near
+"Kaizaki, Arata (海崎 新太)",16.0,79,Low,Low,Yes,8,66,Medium,Yes,2,Medium,High,Public,Neutral,4,No,High School,Far
+"Kuroo, Tetsurou (黒尾 鉄朗)",27.0,72,Low,Medium,Yes,7,83,Medium,Yes,3,Medium,Medium,Public,Positive,3,No,High School,Near
+Thorkell (トルケル),23.0,66,Medium,Medium,Yes,7,73,Medium,Yes,0,Medium,Medium,Public,Positive,4,No,High School,Near
+Future Trunks (未来のトランクス),16.0,74,Medium,High,Yes,8,95,Medium,No,2,,High,Public,Neutral,3,No,College,Near
+"James Moriarty, William (ウィリアム・ジェームズ・モリアーティ)",24.0,82,High,Low,Yes,4,64,Low,Yes,5,,Medium,Public,Positive,3,No,High School,Near
+"Nakamura, Yuri (仲村 ゆり)",23.0,89,Medium,Low,Yes,5,63,Medium,Yes,1,Medium,Medium,Public,,1,No,College,Near
+"Brunestud, Arcueid (アルクェイド・ブリュンスタッド)",16.0,65,Medium,Low,,6,92,Medium,Yes,3,Low,Medium,Public,Positive,3,No,High School,Near
+"Usui, Takumi (碓氷 拓海)",26.0,78,High,Medium,Yes,7,98,Medium,Yes,2,Low,High,Public,,4,No,College,Moderate
+Teresa (テレサ),21.0,71,Medium,High,,6,72,High,,2,Low,Medium,Public,Neutral,4,No,College,Near
+"Shiota, Nagisa (潮田 渚)",19.0,88,Medium,High,Yes,7,65,Low,No,0,High,Medium,Public,Positive,3,No,Postgraduate,Near
+"Smith, Erwin (エルヴィン・スミス)",28.0,91,Medium,Low,,6,55,Medium,,3,Medium,High,Public,Positive,4,No,High School,Near
+"Kitagawa, Marin (喜多川 海夢)",23.0,86,Medium,High,Yes,9,89,Medium,Yes,2,Medium,High,Public,Positive,3,No,College,Near
+"Son, Gohan (孫 悟飯)",20.0,91,High,Medium,No,5,72,Low,Yes,2,Low,Medium,Public,Neutral,2,No,College,Near
+"Miyuki, Kazuya (御幸 一也)",18.0,79,High,Medium,No,5,58,Medium,Yes,1,Low,Medium,Private,Neutral,1,No,Postgraduate,Near
+"Teppelin, Nia (ニア・テッペリン)",16.0,82,Medium,Medium,Yes,9,77,Medium,Yes,1,Low,Medium,Public,Neutral,1,No,College,Moderate
+"Sakuragi, Rokurouta (桜木 六郎太)",20.0,70,High,Medium,,7,97,Medium,Yes,1,Low,Medium,Public,Neutral,2,No,College,Near
+Usopp (ウソップ),12.0,94,High,High,Yes,7,77,Low,Yes,1,Medium,High,Public,,5,No,High School,Near
+"Inaba, Himeko (稲葉 姫子)",24.0,79,High,Low,Yes,6,93,High,Yes,2,Low,Medium,Public,Neutral,2,No,College,Near
+Sanji (サンジ),18.0,93,Medium,High,No,7,82,Medium,Yes,4,Medium,Medium,Public,Positive,4,No,College,Near
+"Kurosaki, Tasuku (黒崎 祐)",14.0,71,High,Low,No,7,82,High,Yes,1,Low,Medium,Public,Neutral,3,No,College,Near
+"Nanami, Chiaki (七海 千秋)",16.0,91,Medium,Medium,No,9,77,High,Yes,0,,Medium,Private,Positive,3,No,Postgraduate,Moderate
+"Hashibira, Inosuke (嘴平 伊之助)",20.0,96,Medium,High,Yes,10,57,Medium,No,3,,Medium,Public,Positive,4,No,College,Near
+"Mista, Guido (グイード・ミスタ)",18.0,87,Medium,High,Yes,8,72,Medium,No,1,,Medium,Public,Neutral,3,No,High School,Moderate
+"Iwatani, Naofumi (岩谷 尚文)",33.0,68,Medium,High,No,6,70,Medium,,2,High,High,Private,Positive,3,No,High School,Moderate
+"Sasaki, Kojirou (佐々木 小次郎)",16.0,70,High,Medium,Yes,6,61,High,,1,Low,High,Public,Neutral,3,No,College,Moderate
+"Walker, Allen (アレン・ウォーカー)",26.0,89,Medium,Low,Yes,4,79,Medium,,2,Medium,Medium,Public,Neutral,3,No,High School,Near
+"Hyoudou, Issei (兵藤一誠)",16.0,89,High,Medium,Yes,7,54,Medium,No,3,Medium,High,Public,Positive,2,No,Postgraduate,Near
+"Furuhashi, Fumino (古橋 文乃)",6.0,94,High,High,Yes,5,88,Low,,1,Low,High,Private,Neutral,2,No,Postgraduate,Moderate
+"Orihara, Izaya (折原 臨也)",21.0,90,High,High,,7,74,High,Yes,0,Medium,Medium,Public,Neutral,3,No,College,Moderate
+Simon (シモン),21.0,99,Medium,Medium,No,5,90,Low,Yes,0,,Medium,Public,Positive,1,No,Postgraduate,Near
+"Sakura, Chiyo (佐倉 千代)",12.0,66,High,High,Yes,9,62,High,Yes,2,Medium,Medium,Private,Positive,3,No,College,Moderate
+"Kousaka, Honoka (高坂 穂乃果)",20.0,63,Low,Medium,No,5,62,Low,Yes,1,High,Medium,Private,Positive,2,No,College,Near
+"Jakuzure, Nonon (蛇崩 乃音)",,74,Low,High,No,7,88,Low,Yes,1,Low,Low,Private,Positive,3,No,College,Near
+Yukine (雪音),23.0,89,Low,Medium,Yes,9,69,Low,Yes,0,,High,Public,Neutral,4,No,Postgraduate,Moderate
+"Nishikino, Maki (西木野 真姫)",35.0,74,Medium,Medium,,8,58,Low,Yes,0,,Medium,Private,,2,No,Postgraduate,Moderate
+"Nakano, Itsuki (中野 五月)",34.0,82,High,Low,Yes,8,77,High,Yes,3,Low,High,Public,Positive,4,No,High School,Near
+"Maou, Sadao (真奥 貞夫 / サタン・ジャコブ)",24.0,61,High,High,No,8,82,High,Yes,4,Low,Medium,Public,Negative,2,No,College,Moderate
+"Ikishima, Midari (生志摩 妄)",19.0,61,High,Medium,Yes,6,94,Low,Yes,1,Low,Medium,Private,,3,No,High School,Near
+"Onodera, Kosaki (小野寺 小咲)",28.0,89,Medium,Medium,,7,70,Medium,Yes,1,,Medium,Private,Negative,3,No,Postgraduate,Near
+Reze (レゼ),23.0,75,Low,Medium,,10,90,Low,Yes,1,Medium,Medium,Public,,4,No,College,Moderate
+"Morinome, Shinako (森ノ目 榀子)",10.0,63,Medium,Low,Yes,9,88,Medium,Yes,0,Low,Low,Private,,4,Yes,College,Near
+"Sugimoto, Saichi (杉元 佐一)",12.0,97,Low,Medium,Yes,5,57,Low,Yes,0,Medium,Medium,Public,Neutral,3,No,Postgraduate,Moderate
+"Kajou, Ayame (華城 綾女)",21.0,62,Low,Low,,5,58,Low,Yes,2,,Medium,Private,Neutral,3,No,High School,Near
+"Nakajima, Atsushi (中島 敦)",17.0,80,Medium,Low,Yes,5,62,Medium,Yes,2,,High,Public,Neutral,4,No,College,Near
+"Akutagawa, Ryuunosuke (芥川 龍之介)",26.0,78,Low,Medium,No,8,95,Medium,Yes,0,Medium,High,Public,Positive,3,No,High School,Near
+"Yukinoshita, Yukino (雪ノ下 雪乃)",23.0,82,High,Medium,Yes,7,92,Medium,Yes,3,Low,Medium,Private,Positive,4,No,Postgraduate,Near
+"Stanfield, Claire (クレア・スタンフィールド)",12.0,100,Medium,Low,No,6,75,High,No,2,Medium,Medium,Public,Positive,3,No,High School,Near
+"Furukawa, Nagisa (古河 渚)",21.0,79,High,High,Yes,7,91,Medium,Yes,3,Medium,High,Public,Neutral,2,Yes,College,Near
+"Koito, Yuu (小糸 侑)",35.0,72,Low,Medium,Yes,6,63,Low,Yes,1,Low,Medium,Private,Neutral,2,No,College,Moderate
+"Yagami, Light (夜神 月)",34.0,68,High,High,Yes,8,91,High,Yes,4,Low,Medium,Private,Positive,3,No,Postgraduate,Near
+Kamui (神威),21.0,71,Low,Medium,Yes,7,51,Low,Yes,0,Medium,Medium,Private,Neutral,4,No,High School,Moderate
+"Bokuto, Koutarou (木兎 光太郎)",17.0,97,Medium,Medium,,6,96,Medium,Yes,2,Medium,Medium,Public,Neutral,2,No,High School,Far
+"Tainaka, Ritsu (田井中 律)",10.0,98,Low,High,Yes,8,63,Medium,,4,Medium,Medium,Public,Positive,2,No,High School,Moderate
+"Nakiri, Alice (薙切 アリス)",18.0,85,Medium,Low,Yes,6,65,High,Yes,1,Medium,Low,Public,Neutral,2,No,High School,Near
+"Yabuki, Joe (矢吹 丈)",22.0,83,Medium,Low,,10,67,Low,Yes,2,Medium,Medium,Public,Negative,4,No,Postgraduate,Near
+"Yuzaki, Tsukasa (由崎 司)",29.0,78,High,Medium,Yes,6,53,Medium,No,0,Medium,High,Public,Neutral,1,No,College,Near
+"Kiriyama, Rei (桐山 零)",21.0,88,Medium,High,No,8,75,Low,Yes,3,,High,Public,Negative,4,No,College,Moderate
+Nami (ナミ),15.0,93,Medium,Medium,Yes,6,90,High,Yes,3,Medium,High,Private,Negative,4,No,College,Near
+Fern (フェルン),22.0,84,Medium,Medium,No,5,54,Medium,Yes,2,Medium,Medium,Private,Positive,3,No,High School,Near
+"Tokisaki, Kurumi (時崎 狂三)",28.0,87,High,Medium,Yes,7,69,Medium,Yes,1,High,Medium,Private,Positive,3,No,High School,Moderate
+"Iki, Hiyori (壱岐 ひより)",20.0,68,High,Medium,No,8,91,High,Yes,1,Medium,Medium,Private,Neutral,3,No,High School,Moderate
+Aka no Saber (赤のセイバー),20.0,71,High,Medium,No,4,59,Low,,1,,High,Public,Negative,5,No,College,Moderate
+"Watanabe, Akari (渡辺 星)",6.0,87,Low,Medium,No,6,82,Medium,Yes,2,Medium,Low,Private,Neutral,3,No,Postgraduate,Moderate
+Miia (ミーア),19.0,63,High,Medium,No,7,70,Low,Yes,2,Low,High,Public,Neutral,3,No,High School,Near
+"Kaidou, Shun (海藤 瞬)",21.0,83,Medium,Medium,,5,84,Low,Yes,1,Medium,Medium,Public,Neutral,2,No,College,Near
+"Wistalia, Zen (ゼン・ウィスタリア)",10.0,81,Medium,Medium,Yes,8,76,Medium,Yes,2,,Medium,Public,Positive,3,No,High School,Near
+"Tachibana, Taki (立花 瀧)",15.0,69,Low,High,No,9,90,High,Yes,3,Medium,Medium,Private,Positive,3,No,College,Moderate
+"Lion, Ryuu (リュー・リオン)",9.0,79,Low,Medium,,7,98,Low,Yes,1,Medium,Medium,Private,Positive,5,No,College,Moderate
+"Asada, Shino (朝田 詩乃)",20.0,94,Medium,High,Yes,5,70,Medium,Yes,0,Low,Medium,Private,,3,No,High School,Near
+"Black, Jet (ジェット・ブラック)",19.0,65,Medium,High,,6,53,Medium,,1,Medium,Medium,Private,Neutral,4,No,College,Moderate
+"Katsuragi, Keima (桂木 桂馬)",25.0,70,Medium,High,Yes,8,95,Low,Yes,3,High,Medium,Public,Positive,1,No,College,Moderate
+"Kushieda, Minori (櫛枝 実乃梨)",19.0,76,Medium,Medium,Yes,10,81,Medium,Yes,2,Medium,Medium,Public,Positive,3,No,High School,Near
+"Tobiichi, Origami (鳶一 折紙)",19.0,67,High,Low,No,6,75,Low,Yes,3,Medium,Medium,Private,Positive,5,No,High School,Near
+"Shigaraki, Tomura (死柄木 弔)",31.0,69,Medium,Medium,Yes,6,67,High,Yes,0,,Medium,Public,Neutral,2,No,College,Near
+"Leonhart, Annie (アニ・レオンハート)",17.0,93,Medium,High,Yes,4,68,High,No,0,Medium,Medium,Public,,2,No,College,Near
+Angel Devil (天使の悪魔),20.0,71,Medium,Medium,Yes,6,58,Medium,Yes,3,Low,Medium,Private,Positive,2,No,College,Moderate
+"Ayuzawa, Misaki (鮎沢 美咲)",25.0,90,Medium,Low,Yes,8,88,Medium,Yes,1,,Low,Private,Negative,3,No,Postgraduate,Far
+"Hanma, Baki (範馬 刃牙)",30.0,62,High,Medium,No,5,61,Low,Yes,1,,Medium,Public,Positive,3,No,High School,Moderate
+"Greyrat, Eris Boreas (エリス・ボレアス・グレイラット)",23.0,79,High,High,Yes,4,81,Low,Yes,0,Low,Medium,Private,,3,No,Postgraduate,Moderate
+"Tony Tony, Chopper (トニートニー・チョッパー)",18.0,95,Low,High,,8,95,High,Yes,2,Low,Medium,Public,Positive,2,No,High School,Near
+"Nagachika, Hideyoshi (永近 英良)",13.0,95,Low,Medium,Yes,8,62,Medium,No,1,Low,Medium,Public,Negative,2,No,College,Near
+"Enma, Ai (閻魔 あい)",16.0,72,High,High,Yes,8,92,Medium,Yes,2,Low,Low,Public,Neutral,3,No,College,Near
+Yue (ユエ),21.0,75,Medium,Medium,Yes,6,58,Medium,Yes,1,Low,Low,Private,Neutral,2,No,College,Far
+"Bakugou, Katsuki (爆豪 勝己)",30.0,97,Medium,Medium,No,6,52,Medium,Yes,1,Low,Medium,Private,Positive,2,No,Postgraduate,Near
+"Wong, Shorter (ショーター・ウォン)",4.0,63,Medium,Medium,No,8,77,Low,Yes,2,Medium,Medium,Private,,1,No,Postgraduate,Near
+"Fujinuma, Satoru (藤沼 悟)",21.0,84,Medium,Medium,No,8,53,Medium,,0,High,Medium,Public,Positive,2,No,High School,Near
+"Boyle, Arthur (アーサー・ボイル)",13.0,82,Medium,Medium,No,8,61,Low,,2,Low,Medium,Private,,2,No,Postgraduate,Moderate
+Revy (レヴィ),20.0,92,Medium,High,No,7,87,Low,,4,High,Medium,Private,Positive,3,No,College,Moderate
+"Nanjou, Sachi (南条 幸)",16.0,77,Low,High,,7,74,Medium,Yes,1,Low,High,Public,Negative,4,No,High School,Moderate
+"Fibel, Sistine (システィーナ=フィーベル)",5.0,89,Medium,Medium,No,9,69,Medium,Yes,3,,Medium,Public,Positive,4,No,High School,Near
+"Ibuki, Fuuko (伊吹 風子)",10.0,83,High,High,No,8,76,Medium,Yes,1,Medium,Medium,Public,Neutral,3,No,High School,Near
+"Amane, Suzuha (阿万音 鈴羽)",18.0,87,Low,Medium,,7,77,Low,No,2,Low,Medium,Public,Negative,2,No,High School,Near
+"Brown, Nicolas (ニコラス・ブラウン)",30.0,72,High,Medium,Yes,4,59,Low,Yes,0,Low,Medium,Public,Positive,4,No,High School,Moderate
+"Nakahara, Sunako (中原 スナコ)",16.0,69,High,Medium,,6,62,Medium,Yes,1,Low,Medium,Private,Positive,3,No,High School,Moderate
+Bojji (ボッジ),27.0,66,High,Medium,Yes,6,85,Medium,Yes,0,,Medium,Private,Positive,4,No,College,Moderate
+Reborn (リボーン),18.0,63,Medium,High,,5,64,Medium,Yes,2,Medium,Medium,Private,,3,No,College,Moderate
+Ryuk (リューク),22.0,87,Medium,High,Yes,10,52,Low,,1,High,High,Private,Neutral,2,No,High School,Near
+"Hishiro, Chizuru (日代 千鶴)",11.0,99,Low,Medium,Yes,6,70,Low,Yes,2,Low,Medium,Public,Neutral,1,No,Postgraduate,Near
+"Kamijou, Touma (上条 当麻)",22.0,65,High,High,No,6,88,Medium,Yes,2,Medium,Medium,Public,Neutral,3,No,College,Near
+Megumin (めぐみん),21.0,98,High,Medium,,8,92,Medium,,2,Medium,High,Public,Negative,2,No,College,Moderate
+"Akaza, Akari (赤座 あかり)",11.0,71,Medium,High,Yes,6,92,Medium,Yes,2,Low,Medium,Private,Negative,3,No,High School,Near
+"Shinonome, Hakase (はかせ)",24.0,60,Medium,High,,8,62,Medium,Yes,1,Low,Medium,Public,Neutral,3,No,College,Moderate
+"Lunge, Heinrich (ハインリッヒ・ルンゲ)",21.0,66,Medium,Low,,4,83,Medium,Yes,3,Medium,Medium,Private,Neutral,3,No,Postgraduate,Moderate
+Howl (ハウル),32.0,62,Medium,High,Yes,7,73,Medium,,2,Medium,Medium,Public,Positive,4,No,College,Near
+"Cifer, Ulquiorra (ウルキオラ・シファ)",17.0,93,High,Low,No,5,94,High,Yes,1,Low,Medium,Public,Neutral,2,No,High School,Near
+"Ishida, Shouya (石田 将也)",24.0,89,High,Medium,,10,63,Low,Yes,1,Medium,Medium,Public,Positive,5,No,College,Near
+"Kobayashi, Rindou (小林 竜胆)",18.0,74,Low,Low,Yes,5,65,Low,,1,Medium,Medium,Public,Negative,3,No,High School,Moderate
+"Lawliet, L (エル ローライト)",7.0,69,High,Medium,,9,52,Medium,Yes,0,,Medium,Private,Positive,2,No,High School,Near
+"Nakano, Ichika (中野 一花)",15.0,76,Medium,Medium,Yes,7,92,Medium,Yes,1,High,Medium,Public,Neutral,2,No,Postgraduate,Near
+"Miki, Sayaka (美樹 さやか)",30.0,73,Medium,Medium,,8,83,High,Yes,0,Medium,High,Public,Positive,2,Yes,High School,Near
+Kuro no Rider (黒のライダー),10.0,90,Medium,High,Yes,6,85,Low,,1,Medium,High,Public,Neutral,3,No,Postgraduate,Near
+Askeladd (アシェラッド),23.0,90,Medium,High,No,8,74,Medium,Yes,1,Medium,High,Public,Positive,6,No,College,Near
+"von Einzbern, Illyasviel (イリヤスフィール・フォン・アインツベルン)",13.0,98,Medium,High,Yes,7,65,Low,No,2,Low,Medium,Public,Neutral,4,No,College,Near
+"Kanbe, Daisuke (神戸 大助)",15.0,75,Medium,Medium,,6,98,Medium,,0,High,Medium,Private,,3,Yes,College,Far
+Viral (ヴィラル),,75,Medium,Low,Yes,6,68,Low,Yes,3,Low,Medium,Public,Positive,1,No,Postgraduate,Near
+"Kirstein, Jean (ジャン・キルシュタイン)",18.0,93,Medium,Medium,Yes,8,54,High,,5,Low,Medium,Public,Negative,3,No,High School,Near
+"Ainsworth, Elias (エリアス・エインズワーズ)",15.0,83,High,Low,Yes,8,54,High,Yes,1,High,Medium,Public,Positive,5,No,College,Moderate
+"Tanaka, Aiko (田中 愛子)",17.0,74,Medium,High,Yes,7,59,Medium,Yes,0,,Medium,Public,Positive,2,No,College,Near
+Orochimaru (大蛇丸),15.0,89,Medium,Low,,8,54,Medium,Yes,0,,High,Private,Positive,2,No,High School,Near
+"Fujiwara, Takumi (藤原 拓海)",20.0,80,High,Low,Yes,5,57,Low,Yes,3,High,High,Private,Positive,4,No,Postgraduate,Near
+"Shinomiya, Kaguya (四宮 かぐや)",22.0,93,High,High,No,5,85,Medium,Yes,1,,High,Public,Neutral,4,No,Postgraduate,Near
+"Nanami, Kento (七海 建人)",24.0,94,Medium,Medium,No,9,71,High,,0,Low,Medium,Public,Positive,2,No,High School,Moderate
+"Natsuki, Subaru (ナツキ・スバル)",27.0,100,High,Low,No,8,69,Medium,No,0,,High,Public,Positive,3,No,College,Near
+"Martinez, David (デイビッド・マルティネス)",14.0,76,Medium,Medium,,8,99,High,Yes,0,Low,Medium,Private,Neutral,3,No,College,Near
+Undertaker (葬儀屋（アンダーテイカー）),17.0,86,High,Medium,Yes,5,92,Low,No,0,Low,High,Public,Neutral,3,No,College,Near
+"Akaashi, Keiji (赤葦 京治)",14.0,77,Medium,Low,,5,69,Medium,Yes,2,,Medium,Public,Positive,3,No,Postgraduate,Moderate
+"Okazaki, Ushio (岡崎 汐)",27.0,74,Medium,High,Yes,6,60,Medium,No,1,Low,Medium,Private,Negative,4,No,High School,Near
+"Hibari, Kyouya (雲雀 恭弥)",20.0,99,Low,Medium,Yes,6,66,Medium,Yes,2,Medium,Low,Private,Negative,2,No,High School,Moderate
+Chelsea (チェルシー),15.0,71,Medium,Medium,Yes,8,54,Medium,Yes,2,Medium,Medium,Public,Neutral,2,No,Postgraduate,Near
+Bentham (ベンサム),9.0,62,High,Medium,Yes,4,78,Medium,Yes,1,Low,Medium,Public,Positive,2,No,High School,Moderate
+Shana (シャナ),15.0,98,Medium,High,,8,95,Low,Yes,1,Low,Medium,Public,Neutral,3,No,College,Near
+"Takamura, Mamoru (鷹村 守)",19.0,89,Medium,Medium,Yes,7,82,Medium,Yes,2,Low,Medium,Public,,3,No,High School,Near
+"Dazai, Osamu (太宰 治)",28.0,97,High,High,No,6,61,Low,Yes,1,Low,High,Private,Positive,4,No,High School,Near
+"Kasuga, Ayumu (春日 歩)",30.0,68,Medium,Medium,,8,73,Low,,2,Medium,High,Public,Negative,3,No,Postgraduate,Near
+"Abarai, Renji (阿散井 恋次)",27.0,67,Low,Medium,No,9,80,Medium,Yes,1,Medium,Medium,Public,Positive,1,No,College,Near
+Rebecca (レベッカ),16.0,94,Low,High,Yes,8,71,Medium,Yes,1,Low,Medium,Public,Positive,3,No,High School,Near
+Pino (ピノ),9.0,87,Medium,Medium,Yes,10,69,Medium,Yes,0,Low,Medium,Private,Positive,3,No,College,Near
+Holo (ホロ),28.0,95,Medium,High,Yes,7,61,Medium,No,3,Low,Medium,Public,Positive,4,No,College,Far
+"Lucilfer, Chrollo (クロロ＝ルシルフル)",21.0,98,Medium,Medium,Yes,6,53,Medium,Yes,1,High,Medium,Public,Neutral,3,Yes,High School,Near
+Clare (クレア),13.0,90,Medium,Medium,,6,77,Low,Yes,1,Medium,High,Public,Neutral,5,No,College,Moderate
+"Joestar, Joseph (ジョセフ・ジョースター)",,93,Medium,Medium,No,6,89,Medium,,0,Medium,High,Public,Positive,3,No,High School,Near
+"Kinomoto, Sakura (木之本 さくら)",16.0,79,High,High,,7,92,Medium,Yes,0,Medium,Medium,Private,Neutral,4,No,College,Near
+Sasori (サソリ),9.0,67,High,High,No,6,89,Low,Yes,2,,Medium,Public,Positive,4,No,Postgraduate,Moderate
+"Ryougi, Shiki (両儀 式)",11.0,96,Medium,Medium,,9,79,High,Yes,4,High,High,Public,Neutral,3,No,High School,Moderate
+"Nagato, Yuki (長門 有希)",21.0,98,Medium,Low,,9,79,High,Yes,0,High,Low,Public,Positive,4,No,High School,Far
+"Polnareff, Jean-Pierre (ジャン＝ピエール・ポルナレフ)",18.0,78,High,Medium,,9,96,High,Yes,0,High,High,Public,Neutral,2,Yes,High School,Moderate
+"Nishinoya, Yuu (西谷 夕)",30.0,88,Low,Medium,No,6,73,Low,Yes,0,Low,Medium,Public,,2,No,Postgraduate,Near
+Kite (カイト),19.0,66,High,Medium,Yes,7,75,Medium,Yes,0,High,Medium,Public,Neutral,3,No,High School,Moderate
+Shirayuki (白雪),9.0,90,High,Medium,,8,61,Low,Yes,0,High,Medium,Private,Positive,4,No,Postgraduate,Near
+"Tepes, Krul (クルル・ツェペシ)",20.0,67,Medium,Medium,No,5,94,Low,Yes,1,Low,Medium,Private,Neutral,3,No,Postgraduate,Moderate
+Scar (スカー (傷の男)),14.0,70,High,Medium,No,6,59,High,Yes,2,,Low,Public,Positive,3,No,College,Moderate
+"Elric, Edward (エドワード・エルリック)",19.0,98,High,High,,6,71,Medium,Yes,4,Low,Medium,Private,Positive,5,No,High School,Near
+"Daidouji, Tomoyo (大道寺 知世)",16.0,65,High,Low,No,6,59,High,,1,,Medium,Public,Neutral,2,No,High School,Moderate
+"Yamauchi, Sakura (山内 桜良)",20.0,82,Low,Medium,Yes,9,82,Medium,Yes,0,Low,Medium,Private,Positive,4,No,Postgraduate,Moderate
+Sora (空),23.0,98,High,Low,No,6,77,Low,,1,Low,Medium,Private,Positive,4,No,High School,Near
+"Silva, Noelle (ノエル・シルヴァ)",21.0,69,High,High,,7,87,Low,,1,Medium,High,Private,Neutral,4,No,College,Moderate
+"Kurumizawa McDowell, Satanichia (胡桃沢=サタニキア=マクドウェル)",14.0,86,High,Medium,Yes,7,92,Medium,No,3,,Medium,Public,Negative,3,No,College,Moderate
+"Hori, Kyouko (堀 京子)",25.0,77,High,Low,No,6,94,Medium,Yes,2,High,High,Public,,2,Yes,College,Near
+"Horikita, Suzune (堀北 鈴音)",23.0,83,Medium,High,Yes,4,83,Medium,Yes,1,Medium,Medium,Public,Neutral,1,No,College,Near
+Aqua (アクア),15.0,91,Medium,High,Yes,9,82,Medium,Yes,2,High,Medium,Private,Neutral,3,No,High School,Near
+"Dola, Schwi (シュヴィ・ドーラ)",25.0,70,Medium,Medium,Yes,7,74,Low,Yes,3,Low,Medium,Private,Positive,1,No,High School,Far
+"Foster, Isaac (アイザック・フォスター)",15.0,100,Medium,Medium,Yes,5,75,Medium,Yes,2,Medium,High,Private,Neutral,2,Yes,College,Far
+"Kagenou, Cid (シド・カゲノー)",16.0,92,High,Medium,,6,88,Low,Yes,2,Low,High,Public,Neutral,3,No,High School,Moderate
+"Ooto, Ai (大戸 アイ)",28.0,68,Medium,Medium,No,8,68,Medium,Yes,1,,High,Private,Negative,3,No,College,Near
+"Nanakusa, Nazuna (七草 ナズナ)",22.0,84,Medium,Medium,Yes,9,57,High,Yes,1,,High,Public,,4,No,High School,Near
+"Takagi, Yasushi (高木 泰士)",16.0,74,Medium,High,Yes,5,83,Medium,No,0,,High,Public,Neutral,2,Yes,College,Moderate
+"Dostoyevsky, Fyodor (フョードル・ドストエフスキー)",15.0,82,Medium,Medium,No,6,51,Medium,Yes,1,Low,Low,Private,Negative,3,No,College,Near
+Hanako-kun (花子くん),14.0,98,High,High,Yes,7,69,Low,,1,,High,Private,Neutral,4,No,High School,Near
+Happy (ハッピー),24.0,60,High,High,Yes,7,80,Medium,Yes,2,Medium,High,Private,Neutral,1,No,College,Near
+"Izumi, Sagiri (和泉 紗霧)",28.0,63,Medium,High,,6,72,Medium,Yes,1,Medium,Medium,Public,Negative,5,No,College,Near
+Sniper Kamen (スナイパー仮面),16.0,75,High,Low,Yes,8,62,Medium,,1,Low,Low,Public,Neutral,3,No,High School,Moderate
+"Tenma, Kenzou (天馬 賢三)",20.0,98,Medium,Low,No,7,59,Medium,Yes,0,,Medium,Public,Positive,3,No,Postgraduate,Near
+"Hinazuki, Kayo (雛月 加代)",27.0,69,Medium,High,No,8,51,Low,Yes,2,Medium,High,Public,Negative,3,No,College,Moderate
+"Vermillion, Mereoleona (メレオレオナ・ヴァーミリオン)",12.0,94,Medium,Medium,No,8,75,Medium,Yes,1,Medium,High,Public,Negative,2,Yes,High School,Near
+"Ikari, Shinji (碇 シンジ)",20.0,96,High,High,Yes,6,51,Medium,Yes,4,Medium,Medium,Private,Neutral,2,No,College,Moderate
+"Yuzuriha, Inori (楪 いのり)",27.0,85,Medium,Medium,,5,88,Medium,Yes,2,,Medium,Public,Positive,5,No,High School,Moderate
+"Inoue, Takina (井ノ上 たきな)",16.0,82,High,High,No,7,92,Medium,,2,Medium,High,Public,Negative,3,No,High School,Near
+"Suzumiya, Haruhi (涼宮 ハルヒ)",14.0,96,Medium,High,,10,87,Medium,Yes,2,Medium,Medium,Public,Neutral,3,No,Postgraduate,Near
+"Ishigami, Yuu (石上 優)",24.0,94,Medium,High,Yes,6,92,High,Yes,2,Low,Low,Private,,4,Yes,High School,Near
+"Speeddraw, Fremy (フレミー・スピッドロウ)",18.0,79,Low,Low,,7,59,Low,Yes,1,Low,Medium,Public,,1,No,High School,Moderate
+Takagi (高木),25.0,95,Low,Low,,6,75,Low,,0,Medium,Medium,Private,Positive,1,No,Postgraduate,Near
+Saitama (サイタマ),20.0,99,Medium,High,Yes,6,93,High,Yes,3,Medium,Low,Private,Positive,3,No,College,Near
+Thorfinn (トルフィン),28.0,87,High,High,No,6,99,Low,Yes,1,High,Medium,Public,Positive,4,No,High School,Moderate
+"Kaneki, Ken (金木 研)",20.0,99,High,High,No,6,92,Medium,Yes,3,Low,High,Public,Positive,3,No,College,Near
+Kamina (カミナ),27.0,99,High,Medium,Yes,6,50,Low,Yes,2,Low,High,Public,Positive,2,No,High School,Near
+Pain (ペイン),24.0,81,High,Medium,Yes,7,71,Medium,Yes,2,Medium,Medium,Public,Positive,4,No,College,Moderate
+"Aisaka, Taiga (逢坂 大河)",34.0,82,Medium,High,Yes,6,67,Medium,Yes,2,Low,High,Private,Positive,3,No,Postgraduate,Moderate
+"Kise, Ryouta (黄瀬 涼太)",14.0,91,Medium,High,,6,72,Low,Yes,0,Medium,Medium,Private,Positive,0,No,College,Moderate
+"Tanaka, Asuka (田中 あすか)",20.0,62,Medium,Medium,Yes,8,96,Low,Yes,1,Medium,Medium,Public,Positive,4,Yes,College,Near
+"Suzuya, Juuzou (鈴屋 什造)",19.0,90,High,High,Yes,6,59,Medium,Yes,1,High,Medium,Private,Neutral,3,No,Postgraduate,Near
+"Amajiki, Tamaki (天喰 環)",17.0,64,Medium,High,Yes,8,69,High,Yes,1,Medium,Medium,Public,,3,No,High School,Near
+"Kita, Ikuyo (喜多 郁代)",15.0,73,Medium,Medium,,6,63,Medium,Yes,2,Medium,High,Private,Neutral,3,No,High School,Near
+Sephiroth (セフィロス),13.0,65,Medium,High,No,9,53,Low,Yes,0,Low,High,Public,Neutral,4,No,College,Moderate
+Nausicaä (ナウシカ),18.0,84,High,Low,Yes,6,69,Medium,Yes,1,Low,Medium,Private,Negative,5,No,High School,Moderate
+Puck (パック),18.0,60,Medium,High,No,7,53,Medium,Yes,2,Low,Medium,Private,Negative,3,No,College,Moderate
+"Onodera, Punpun (小野寺 プンプン)",21.0,83,Medium,High,No,7,95,Medium,Yes,0,,Medium,Public,,4,No,Postgraduate,Moderate
+Emilia (エミリア),18.0,92,Medium,High,Yes,9,53,High,Yes,2,Medium,High,Public,Neutral,4,No,High School,Near
+"Momozono, Nanami (桃園 奈々生)",14.0,84,High,Low,,6,67,Low,Yes,1,Medium,Medium,Private,Positive,2,No,Postgraduate,Near
+Friend (ともだち),16.0,78,Low,Low,,6,83,Low,Yes,3,High,Medium,Private,Neutral,3,No,High School,Near
+Tooru (トール),,78,Medium,Medium,No,7,94,Medium,,3,Medium,High,Private,Negative,2,No,Postgraduate,Far
+"Yotsuya, Miko (四谷 みこ)",21.0,60,Medium,Medium,Yes,9,77,Medium,Yes,1,Low,Medium,Public,Positive,3,No,High School,Near
+"Makise, Kurisu (牧瀬 紅莉栖)",26.0,97,Medium,High,,6,92,Medium,Yes,0,Medium,High,Public,Positive,3,No,High School,Moderate
+Vegeta (ベジータ),22.0,99,Medium,High,No,8,100,High,Yes,0,,Medium,Public,,3,No,High School,Near
+"Kaizuka, Inaho (界塚 伊奈帆)",25.0,74,Low,Low,No,8,71,Low,Yes,1,Low,Medium,Public,Positive,4,No,College,Far
+"Osaki, Nana (大崎 ナナ)",25.0,83,High,High,,7,51,Medium,Yes,1,Low,High,Public,Positive,3,No,College,Moderate
+"Karuizawa, Kei (軽井沢 恵)",15.0,63,Medium,High,No,7,80,High,Yes,2,High,Medium,Private,Positive,4,No,Postgraduate,Near
+"Dunois, Charlotte (シャルロット デュノア)",20.0,73,Medium,High,,8,63,Medium,No,1,High,Medium,Public,Positive,4,No,College,Moderate
+"Busujima, Saeko (毒島 冴子)",21.0,87,Medium,Low,Yes,9,99,Low,Yes,3,,Low,Public,Neutral,3,No,High School,Near
+"Katsuki, Yuuri (勝生 勇利)",10.0,87,Medium,High,,7,54,High,Yes,1,High,Medium,Private,,4,No,Postgraduate,Near
+Keyaru (ケヤル／ケヤルガ),15.0,71,Medium,Medium,No,4,71,Low,Yes,1,Low,Medium,Public,Positive,4,No,High School,Far
+"Uchiha, Sasuke (うちは サスケ)",26.0,71,Medium,High,,9,94,Medium,Yes,5,Low,High,Public,Positive,2,No,College,Near
+Tsukuyo (月詠),,77,High,Medium,,7,54,Medium,Yes,1,Medium,Low,Private,Positive,3,No,College,Near
+"Yukihira, Souma (幸平 創真)",34.0,82,Medium,Low,Yes,8,99,Medium,,1,Low,Medium,Private,,3,No,High School,Near
+Tsunade (綱手),4.0,82,High,Medium,No,7,85,Low,Yes,4,Low,High,Public,Negative,3,No,High School,Near
+"Fudou, Akira (不動 明)",,64,High,Medium,,10,51,Medium,Yes,0,Medium,Medium,Private,Positive,5,No,Postgraduate,Moderate
+"Tachibana, Rui (橘 瑠衣)",21.0,86,Medium,High,No,7,59,Medium,Yes,2,Low,Medium,Public,Positive,5,No,Postgraduate,Near
+"Dracule, Mihawk (ジュラキュール・ミホーク)",11.0,68,Medium,Medium,No,7,58,Low,Yes,2,Medium,Medium,Public,,3,No,High School,Near
+Sakamoto (阪本),19.0,68,High,Medium,,8,86,Low,Yes,0,Low,High,Public,Positive,4,No,High School,Moderate
+"Fairbrook Wingates Hellsing, Integra (インテグラル・ファルブルケ・ウィンゲーツ・ヘルシング)",15.0,73,Medium,Medium,,6,69,Medium,Yes,1,,High,Public,Neutral,2,No,College,Moderate
+"Yeager, Eren (エレン・イェーガー)",22.0,93,High,Low,Yes,6,87,Low,Yes,5,Low,High,Public,,4,No,Postgraduate,Near
+"Honma, Meiko (本間 芽衣子)",,90,Medium,Medium,,7,61,High,No,3,,High,Public,Negative,3,No,Postgraduate,Moderate
+King (キング),11.0,72,Medium,Medium,No,8,80,Medium,Yes,1,,High,Public,Positive,4,No,High School,Near
+"Tanaka, Ryuunosuke (田中 龍之介)",,79,Medium,Medium,,9,79,Low,Yes,2,Medium,High,Public,Neutral,3,No,High School,Near
+Mugen (無限),23.0,97,High,Medium,No,8,58,Low,Yes,1,Medium,High,Public,Neutral,3,No,High School,Moderate
+Mumen Rider (無免ライダー),13.0,94,Low,Medium,No,6,79,Medium,Yes,1,Medium,Medium,Private,Negative,3,No,High School,Near
+"Urabe, Mikoto (卜部美琴)",24.0,69,High,Low,,9,82,Low,Yes,1,Medium,High,Public,Negative,3,No,High School,Near
+"Nishimiya, Shouko (西宮 硝子)",21.0,94,Medium,High,,6,89,Medium,Yes,0,Medium,Medium,Private,Negative,2,No,High School,Near
+Ruler (ルーラー),16.0,76,Low,Medium,Yes,7,61,Medium,Yes,1,Medium,Medium,Public,Neutral,3,No,High School,Near
+Twenty-Fifth Bam (스물다섯번째 밤 / 夜),18.0,65,Medium,Medium,Yes,7,99,Low,Yes,1,Medium,High,Public,Neutral,2,No,High School,Near
+"Fernandes, Jellal (ジェラール・フェルナンデス)",21.0,68,Medium,High,No,8,91,Medium,Yes,1,,Medium,Public,Negative,4,No,High School,Near
+"Phantomhive, Ciel (シエル・ファントムハイヴ)",24.0,92,High,Medium,Yes,7,66,Medium,Yes,1,Low,Medium,Public,Neutral,4,No,High School,Far
+Sinbad (シンドバッド),26.0,91,High,Medium,,8,57,Low,,0,Medium,Medium,Private,Neutral,3,No,College,Moderate
+"Himejima, Akeno (姫島 朱乃)",,87,Medium,High,No,6,99,Medium,Yes,2,Low,Medium,Public,,4,No,High School,Near
+"Netero, Isaac (アイザック＝ネテロ)",22.0,69,Medium,High,Yes,9,70,Medium,Yes,3,Medium,Medium,Public,,2,No,Postgraduate,Near
+"Hohenheim, Van (ヴァン・ホーエンハイム)",23.0,65,Medium,High,Yes,7,84,Low,No,0,High,Medium,Public,,4,No,Postgraduate,Moderate
+"Saotome, Mary (早乙女 芽亜里)",16.0,81,Medium,Medium,No,9,61,Medium,,3,High,High,Public,Neutral,2,No,High School,Near
+"Aoyama, Nanami (青山 七海)",19.0,64,High,Medium,Yes,8,59,Medium,Yes,2,High,Medium,Private,Positive,1,No,College,Near
+Tobi (トビ),20.0,61,Medium,Medium,No,7,71,High,Yes,2,Medium,Low,Public,Positive,3,No,High School,Near
+"Evans, Soul Eater (ソウル・イーター・エヴァンス)",15.0,96,High,Medium,No,7,94,Low,No,3,Medium,Medium,Private,Neutral,3,No,College,Moderate
+"Tsunemori, Akane (常守 朱)",21.0,97,Medium,High,No,8,54,High,Yes,0,Low,Low,Public,Positive,3,No,College,Near
